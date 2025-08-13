@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const toast = document.getElementById('toast');
 
     // ---STATE VARIABLES---
-    const GITHUB_URL = 'MY_URL/words.json';
+    const GITHUB_URL = 'https://raw.githubusercontent.com/Ashonko/practice-spelling-for-IELTS/refs/heads/main/words.json';
     let allData = {};
     let currentPracticeList = [];
     let currentWordObject = null;

@@ -2,9 +2,9 @@
 
 A free, interactive, and open-source web application designed to help students master the 1200+ most commonly repeated words in the IELTS Listening Test. This tool provides a clean, user-friendly interface for focused, category-based vocabulary practice.
 
-**[➡️ Live Demo](https://MY_URL)**
+**[➡️ Live Demo](https://ashonko.github.io/practice-spelling-for-IELTS/)**
 
-![Screenshot of the IELTS Spelling Practice App](https://MY_URL/img/social-preview.png)
+![Screenshot of the IELTS Spelling Practice App](https://ashonko.github.io/practice-spelling-for-IELTS/img/social-preview.png)
 
 ---
 
@@ -32,11 +32,11 @@ There is no complex setup required! Since this is a pure front-end application, 
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/Ashonko/MY_URL.git
+    git clone https://github.com/Ashonko/practice-spelling-for-IELTS.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd MY_REPO_NAME
+    cd practice-spelling-for-IELTS
     ```
 3.  Simply open the `index.html` file in your favorite web browser.
 
