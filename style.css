@@ -1,0 +1,409 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #eef1f5;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 2rem 3rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 1000px; 
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.setup-instruction {
+    color: #555;
+    font-size: 1.1em;
+    margin-bottom: 2rem;
+}
+
+
+/* Wrapper to contain the grid and the fade effect */
+.setup-area-wrapper {
+    position: relative; /* This is crucial for positioning the fade overlay */
+}
+
+
+/* Category Card Grid Styles */
+.setup-area {
+    display: grid;
+    /* This will create 4 columns on screens wide enough for 4 * 200px cards */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    width: 100%;
+    /* This makes the home screen scrollable if content overflows */
+    max-height: 50vh;
+    overflow-y: auto;
+    padding: 5px; /* Adds a little space for content near the edges */
+}
+
+/* Custom Scrollbar Styling */
+/* Works in Chrome, Edge, Safari */
+.setup-area::-webkit-scrollbar {
+    width: 8px;
+}
+.setup-area::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+.setup-area::-webkit-scrollbar-thumb {
+    background: #c5c5c5;
+    border-radius: 10px;
+}
+.setup-area::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+/* Scroll Fade Gradient Overlay */
+.scroll-fade {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background: linear-gradient(to bottom, transparent, white);
+    pointer-events: none; /* This allows clicks to pass through the gradient */
+    transition: opacity 0.3s;
+}
+
+.category-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    background-color: #f8f9fa;
+    min-height: 120px;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-color: #3498db;
+}
+
+.card-icon {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #3498db;
+}
+
+.card-title {
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #34495e;
+}
+
+
+/* Practice Area Styles (ensuring it doesn't scroll) */
+.practice-area {
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.description-prompt {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+}
+
+#description-display {
+    font-size: 1.3em;
+    font-style: italic;
+    color: #2c3e50;
+    margin: 0 0 1rem 0;
+    min-height: 40px;
+}
+
+#synonyms-container {
+    margin-bottom: 1.5rem;
+    min-height: 30px;
+}
+.synonym-badge {
+    display: inline-block;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    color: #555;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 4px;
+    font-size: 0.8em;
+}
+
+.input-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#answer-input {
+    font-size: 1.5em;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    flex-grow: 1;
+}
+#answer-input:focus {
+    outline: none;
+    border-color: #3498db;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: white;
+    transition: background-color 0.2s;
+}
+button:hover {
+    background-color: #2980b9;
+}
+
+#check-btn {
+    background-color: #2ecc71;
+}
+#check-btn:hover {
+    background-color: #27ae60;
+}
+
+#feedback {
+    margin-top: 1rem;
+    font-size: 1.2em;
+    font-weight: bold;
+    min-height: 25px;
+}
+.correct { color: #27ae60; }
+.incorrect { color: #e74c3c; }
+
+.controls {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#home-btn {
+    background-color: #7f8c8d;
+}
+#home-btn:hover {
+    background-color: #6c7a7d;
+}
+#flag-btn {
+    background: none;
+    color: #f39c12;
+    border: 1px solid transparent;
+    font-size: 1em;
+    transition: all 0.2s;
+}
+#flag-btn.flagged {
+    color: #27ae60;
+}
+#flag-btn:hover {
+    background-color: #fef5e7;
+}
+#flag-btn.flagged:hover {
+    background-color: #e8f8f5;
+}
+
+.tracing-container {
+    position: relative;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 10px 45px 10px 10px;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    cursor: text;
+}
+.trace-char {
+    color: #bdc3c7;
+}
+.trace-char.correct {
+    color: #2ecc71;
+}
+.trace-char.incorrect {
+    color: #e74c3c;
+}
+
+#retry-trace-btn {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 1.4em;
+    color: #95a5a6;
+    padding: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+#retry-trace-btn:hover {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+#toast {
+    position: fixed;
+    bottom: -100px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #34495e;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+    font-size: 1.1em;
+    z-index: 1000;
+    transition: bottom 0.5s ease-in-out;
+}
+#toast.show {
+    bottom: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 4rem;
+    padding: 1rem 0 0 0;
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.5;
+}
+
+footer a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* ========================================= */
+/*  Styles for About Page
+/* ========================================= */
+
+.about-intro {
+    font-size: 1.15em;
+    color: #555;
+    max-width: 80%;
+    margin: 0 auto 2.5rem auto;
+    line-height: 1.6;
+}
+
+.about-section {
+    text-align: left;
+    margin-bottom: 2.5rem;
+}
+
+.about-section h2 {
+    text-align: center;
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.feature-card {
+    background-color: #f8f9fa;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.feature-icon {
+    font-size: 2.5em;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    font-size: 1.2em;
+    color: #34495e;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.feature-card p {
+    font-size: 0.95em;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 0;
+}
+
+.credits-list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 2;
+    color: #333;
+}
+
+.credits-list a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.credits-list a:hover {
+    text-decoration: underline;
+}
+
+.button-primary {
+    display: inline-block;
+    background-color: #2ecc71;
+    color: white;
+    padding: 12px 30px;
+    font-size: 1.1em;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 1rem;
+    transition: background-color 0.2s;
+}
+
+.button-primary:hover {
+    background-color: #27ae60;
+}
+
+/* Style for the disclaimer text in the footer */
+.disclaimer-text {
+    font-size: 0.8em;
+    color: #999;
+    max-width: 800px;
+    margin: 2rem auto 0 auto;
+}

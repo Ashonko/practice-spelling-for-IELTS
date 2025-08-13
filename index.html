@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Practice Spelling for IELTS | Master 1200+ Common Words</title>
+    <meta name="title" content="Practice Spelling for IELTS | Master 1200+ Common Words">
+    <meta name="description" content="A free, interactive web app to help you master the most common vocabulary for the IELTS test. Practice spelling, learn definitions, and track your progress with a clean, user-friendly interface.">
+    <meta name="keywords" content="IELTS, spelling practice, vocabulary, english, learning, free tool, test preparation, ielts listening, ielts words">
+    <meta name="author" content="Rajib Biswas">
+    <link rel="canonical" href="https://MY_URL.com/">
+
+    <!-- Favicon and App Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+    <link rel="icon" type="image/svg+xml" href="icons/favicon.svg">
+    <link rel="shortcut icon" href="icons/favicon.ico">
+
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- Theme Color for Browsers (especially on mobile) -->
+    <meta name="theme-color" content="#ffffff">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://MY_URL.com/">
+    <meta property="og:title" content="Practice Spelling for IELTS | Master 1200+ Common Words">
+    <meta property="og:description" content="Master common IELTS vocabulary with this free, interactive spelling practice tool.">
+    <meta property="og:image" content="https://MY_URL.com/img/social-preview.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://MY_URL.com/">
+    <meta property="twitter:title" content="Practice Spelling for IELTS | Master 1200+ Common Words">
+    <meta property="twitter:description" content="Master common IELTS vocabulary with this free, interactive spelling practice tool.">
+    <meta property="twitter:image" content="https://MY_URL.com/img/social-preview.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Practice Spelling for IELTS</h1>
+
+        <!-- Instructional text for the home screen -->
+        <p class="setup-instruction" id="setup-instruction">Select a category below to start practicing.</p>
+
+        <!-- The setup area: wrapper for positioning the fade effect -->
+        <div class="setup-area-wrapper">
+            <div class="setup-area" id="setup-area">
+                <p>Loading categories...</p>
+            </div>
+            <!-- This div will create the fade-out effect -->
+            <div class="scroll-fade" id="scroll-fade"></div>
+        </div>
+
+        <div class="practice-area hidden" id="practice-area">
+            <p class="description-prompt">What is the word for:</p>
+            <p id="description-display">A long essay on a particular subject, for a degree.</p>
+            
+            <div id="synonyms-container"></div>
+
+            <div class="input-row" id="input-row">
+                <input type="text" id="answer-input" placeholder="Type the word..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+                <button id="check-btn">Check</button>
+            </div>
+            
+            <div class="tracing-container hidden" id="tracing-container">
+                <button id="retry-trace-btn" class="hidden">🔄</button>
+            </div>
+
+            <p id="feedback"></p>
+
+            <div class="controls">
+                <button id="home-btn">🏠 Home</button>
+                <button id="flag-btn">🚩 Flag Word</button>
+                <button id="next-btn">Next Question ➡️</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <img src="img/Practice Spelling for IELTS Logo.png" alt="Practice Spelling for IELTS" style="height: 40px;"><br>
+        Developed by <a href="https://drrajibbiswas.com/" target="_blank">Rajib Biswas</a>. 
+        <br><a href="about.html"> ℹ️ About</a>
+    </footer>
+
+    <div id="toast"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

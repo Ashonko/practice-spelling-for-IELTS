@@ -1,0 +1,6807 @@
+{
+    "days_of_the_week": [
+      {
+        "word": "Monday",
+        "description": "The first day of the working week, following Sunday.",
+        "synonyms": []
+      },
+      {
+        "word": "Tuesday",
+        "description": "The day of the week before Wednesday and following Monday.",
+        "synonyms": []
+      },
+      {
+        "word": "Wednesday",
+        "description": "The day of the week between Tuesday and Thursday.",
+        "synonyms": [
+          "midweek"
+        ]
+      },
+      {
+        "word": "Thursday",
+        "description": "The day of the week before Friday and following Wednesday.",
+        "synonyms": []
+      },
+      {
+        "word": "Friday",
+        "description": "The day of the week before Saturday and following Thursday.",
+        "synonyms": []
+      },
+      {
+        "word": "Saturday",
+        "description": "The day of the week before Sunday and following Friday, part of the weekend.",
+        "synonyms": []
+      },
+      {
+        "word": "Sunday",
+        "description": "The day of the week before Monday and following Saturday, part of the weekend.",
+        "synonyms": []
+      }
+    ],
+    "months_of_the_year": [
+      {
+        "word": "January",
+        "description": "The first month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "February",
+        "description": "The second month of the year, having 28 or 29 days.",
+        "synonyms": []
+      },
+      {
+        "word": "March",
+        "description": "The third month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "April",
+        "description": "The fourth month of the year, having 30 days.",
+        "synonyms": []
+      },
+      {
+        "word": "May",
+        "description": "The fifth month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "June",
+        "description": "The sixth month of the year, having 30 days.",
+        "synonyms": []
+      },
+      {
+        "word": "July",
+        "description": "The seventh month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "August",
+        "description": "The eighth month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "September",
+        "description": "The ninth month of the year, having 30 days.",
+        "synonyms": []
+      },
+      {
+        "word": "October",
+        "description": "The tenth month of the year, having 31 days.",
+        "synonyms": []
+      },
+      {
+        "word": "November",
+        "description": "The eleventh month of the year, having 30 days.",
+        "synonyms": []
+      },
+      {
+        "word": "December",
+        "description": "The twelfth month of the year, having 31 days.",
+        "synonyms": []
+      }
+    ],
+    "money_matters": [
+      {
+        "word": "cash",
+        "description": "Physical money in the form of notes and coins.",
+        "synonyms": [
+          "currency",
+          "hard cash",
+          "ready money"
+        ]
+      },
+      {
+        "word": "debit",
+        "description": "A sum of money taken out of a bank account.",
+        "synonyms": [
+          "deduction",
+          "charge",
+          "withdrawal"
+        ]
+      },
+      {
+        "word": "credit card",
+        "description": "A plastic card from a financial company allowing the holder to purchase goods on credit.",
+        "synonyms": [
+          "plastic money"
+        ]
+      },
+      {
+        "word": "cheque",
+        "description": "A written order to a bank to pay a stated sum from the drawer's account.",
+        "synonyms": [
+          "check (US)",
+          "bank draft"
+        ]
+      },
+      {
+        "word": "in advance",
+        "description": "To do something or pay for something before it is due.",
+        "synonyms": [
+          "beforehand",
+          "upfront",
+          "prepaid"
+        ]
+      },
+      {
+        "word": "annual fee",
+        "description": "A yearly charge by banks for the use of their services or products, like a credit card.",
+        "synonyms": [
+          "yearly charge",
+          "annual subscription"
+        ]
+      },
+      {
+        "word": "monthly membership",
+        "description": "A fee paid every month to be part of a club, organization, or to receive a service.",
+        "synonyms": [
+          "monthly subscription",
+          "dues"
+        ]
+      },
+      {
+        "word": "interest rate",
+        "description": "The percentage of a sum of money charged for its use or for borrowing it.",
+        "synonyms": [
+          "borrowing cost",
+          "rate of return"
+        ]
+      },
+      {
+        "word": "deposit",
+        "description": "A sum of money paid into a bank account or as a down payment on a purchase.",
+        "synonyms": [
+          "down payment",
+          "security payment"
+        ]
+      },
+      {
+        "word": "tuition fees",
+        "description": "Money that a student pays to a university or college for their teaching.",
+        "synonyms": [
+          "course fees",
+          "school fees",
+          "academic fees"
+        ]
+      },
+      {
+        "word": "poverty",
+        "description": "The state of being extremely poor and lacking basic needs.",
+        "synonyms": [
+          "destitution",
+          "hardship",
+          "penury"
+        ]
+      },
+      {
+        "word": "bank statement",
+        "description": "A document sent by a bank listing transactions for an account over a given period.",
+        "synonyms": [
+          "account statement"
+        ]
+      },
+      {
+        "word": "money management",
+        "description": "The process of budgeting, saving, investing, and spending financial resources.",
+        "synonyms": [
+          "financial planning",
+          "budgeting"
+        ]
+      },
+      {
+        "word": "current account",
+        "description": "A bank account for day-to-day transactions, allowing for deposits and withdrawals (UK term).",
+        "synonyms": [
+          "checking account (US)"
+        ]
+      },
+      {
+        "word": "student account",
+        "description": "A type of bank account designed for people in higher education, often with benefits like no fees.",
+        "synonyms": []
+      },
+      {
+        "word": "withdraw",
+        "description": "To take money out of a bank account.",
+        "synonyms": [
+          "take out",
+          "extract",
+          "draw out"
+        ]
+      },
+      {
+        "word": "low-risk investment",
+        "description": "An investment with a low chance of losing money, but typically offering a smaller profit.",
+        "synonyms": [
+          "safe investment",
+          "conservative investment"
+        ]
+      },
+      {
+        "word": "mortgage",
+        "description": "A long-term loan from a bank to help someone buy a house.",
+        "synonyms": [
+          "home loan",
+          "property loan"
+        ]
+      },
+      {
+        "word": "grace period",
+        "description": "An extra period of time allowed for payment of a debt or to meet a requirement.",
+        "synonyms": [
+          "extension",
+          "leeway"
+        ]
+      },
+      {
+        "word": "budget deficit",
+        "description": "A situation in which a government's, company's, or individual's expenses exceed their income.",
+        "synonyms": [
+          "shortfall",
+          "overspending"
+        ]
+      },
+      {
+        "word": "retail voucher",
+        "description": "A coupon from a store that can be exchanged for goods or a discount.",
+        "synonyms": [
+          "gift card",
+          "store credit",
+          "coupon"
+        ]
+      },
+      {
+        "word": "coupon",
+        "description": "A voucher entitling the holder to a discount for a particular product.",
+        "synonyms": [
+          "voucher",
+          "discount code"
+        ]
+      },
+      {
+        "word": "counterfeit money",
+        "description": "Fake currency produced without the legal sanction of the state or government.",
+        "synonyms": [
+          "fake money",
+          "forgery"
+        ]
+      },
+      {
+        "word": "public money",
+        "description": "Money that has been collected by the state, usually through taxation.",
+        "synonyms": [
+          "tax revenue",
+          "government funds",
+          "the public purse"
+        ]
+      },
+      {
+        "word": "taxpayers' money",
+        "description": "Money that people pay in taxes, emphasizing it belongs to the people, not the government.",
+        "synonyms": [
+          "public funds"
+        ]
+      },
+      {
+        "word": "debt",
+        "description": "A sum of money that is owed or due.",
+        "synonyms": [
+          "liability",
+          "arrears",
+          "dues"
+        ]
+      },
+      {
+        "word": "interest-free credit",
+        "description": "A loan or purchase plan where you pay no interest for a set period.",
+        "synonyms": [
+          "zero-percent financing",
+          "0% APR"
+        ]
+      },
+      {
+        "word": "purchase",
+        "description": "The action of buying something, or an item that has been bought.",
+        "synonyms": [
+          "buy",
+          "acquisition",
+          "procurement"
+        ]
+      },
+      {
+        "word": "partial refund",
+        "description": "A repayment of only a part of the sum of money that you originally paid.",
+        "synonyms": [
+          "partial reimbursement"
+        ]
+      },
+      {
+        "word": "annuity",
+        "description": "A financial product that pays out a fixed stream of payments, often used for retirement income.",
+        "synonyms": [
+          "pension",
+          "stipend"
+        ]
+      },
+      {
+        "word": "non-refundable",
+        "description": "Describes a payment that will not be returned in any circumstances.",
+        "synonyms": [
+          "final sale"
+        ]
+      },
+      {
+        "word": "MasterCard",
+        "description": "A brand of credit and debit cards from a global payments technology company.",
+        "synonyms": [
+          "credit card"
+        ]
+      },
+      {
+        "word": "VISA",
+        "description": "A multinational financial services corporation that facilitates electronic funds transfers.",
+        "synonyms": [
+          "credit card"
+        ]
+      },
+      {
+        "word": "distribution costs",
+        "description": "The expenses incurred in getting a product from the manufacturer to the final customer.",
+        "synonyms": [
+          "shipping costs",
+          "logistics fees"
+        ]
+      },
+      {
+        "word": "income",
+        "description": "Money received on a regular basis for work or through investments.",
+        "synonyms": [
+          "earnings",
+          "revenue",
+          "salary"
+        ]
+      },
+      {
+        "word": "finance department",
+        "description": "The part of an organization that manages its money and financial affairs.",
+        "synonyms": [
+          "accounting department",
+          "accounts"
+        ]
+      },
+      {
+        "word": "family finances",
+        "description": "The management of money and financial decisions for a household.",
+        "synonyms": [
+          "household budget"
+        ]
+      },
+      {
+        "word": "duty-free store",
+        "description": "A shop, often at an airport, where goods are sold without the taxes that are normally added.",
+        "synonyms": []
+      }
+    ],
+    "subjects": [
+      {
+        "word": "science",
+        "description": "The systematic study of the physical and natural world through observation and experiment.",
+        "synonyms": [
+          "discipline",
+          "field of study"
+        ]
+      },
+      {
+        "word": "politics",
+        "description": "The activities associated with the governance of a country or area.",
+        "synonyms": [
+          "government",
+          "civics",
+          "affairs of state"
+        ]
+      },
+      {
+        "word": "history",
+        "description": "The study of past events, particularly in human affairs.",
+        "synonyms": [
+          "the past",
+          "annals",
+          "chronicles"
+        ]
+      },
+      {
+        "word": "biology",
+        "description": "The scientific study of life and living organisms.",
+        "synonyms": [
+          "life science"
+        ]
+      },
+      {
+        "word": "architecture",
+        "description": "The art and science of designing and constructing buildings.",
+        "synonyms": [
+          "building design",
+          "construction"
+        ]
+      },
+      {
+        "word": "law",
+        "description": "The system of rules that a particular country or community recognizes as regulating the actions of its members.",
+        "synonyms": [
+          "jurisprudence",
+          "legislation",
+          "regulation"
+        ]
+      },
+      {
+        "word": "geography",
+        "description": "The study of the physical features of the earth and its atmosphere.",
+        "synonyms": [
+          "earth science",
+          "topography"
+        ]
+      },
+      {
+        "word": "archaeology",
+        "description": "The study of human history through the excavation of sites and the analysis of artifacts.",
+        "synonyms": [
+          "study of antiquity"
+        ]
+      },
+      {
+        "word": "literature",
+        "description": "Written works, especially those considered of superior or lasting artistic merit.",
+        "synonyms": [
+          "writing",
+          "prose",
+          "texts"
+        ]
+      },
+      {
+        "word": "business management",
+        "description": "The coordination and organization of business activities.",
+        "synonyms": [
+          "administration",
+          "supervision",
+          "commerce"
+        ]
+      },
+      {
+        "word": "agriculture",
+        "description": "The science or practice of farming, including the cultivation of soil and rearing of animals.",
+        "synonyms": [
+          "farming",
+          "husbandry",
+          "cultivation"
+        ]
+      },
+      {
+        "word": "statistics",
+        "description": "The science of collecting and analyzing numerical data in large quantities.",
+        "synonyms": [
+          "data analysis",
+          "analytics"
+        ]
+      },
+      {
+        "word": "mathematics",
+        "description": "The abstract science of number, quantity, and space.",
+        "synonyms": [
+          "maths",
+          "calculation",
+          "computation"
+        ]
+      },
+      {
+        "word": "logic",
+        "description": "Reasoning conducted or assessed according to strict principles of validity.",
+        "synonyms": [
+          "reasoning",
+          "rationale",
+          "deduction"
+        ]
+      },
+      {
+        "word": "physics",
+        "description": "The branch of science concerned with the nature and properties of matter and energy.",
+        "synonyms": []
+      },
+      {
+        "word": "psychology",
+        "description": "The scientific study of the human mind and its functions, especially those affecting behavior.",
+        "synonyms": [
+          "study of the mind",
+          "behaviorism"
+        ]
+      },
+      {
+        "word": "anthropology",
+        "description": "The study of human societies, cultures, and their development.",
+        "synonyms": [
+          "study of humanity"
+        ]
+      },
+      {
+        "word": "economics",
+        "description": "The branch of knowledge concerned with the production, consumption, and transfer of wealth.",
+        "synonyms": [
+          "finance",
+          "financial science"
+        ]
+      },
+      {
+        "word": "philosophy",
+        "description": "The study of the fundamental nature of knowledge, reality, and existence.",
+        "synonyms": [
+          "ideology",
+          "thinking",
+          "reason"
+        ]
+      },
+      {
+        "word": "performing arts",
+        "description": "Art forms such as music, dance, and drama which are performed for an audience.",
+        "synonyms": [
+          "the stage",
+          "show business"
+        ]
+      },
+      {
+        "word": "visual arts",
+        "description": "Art forms such as painting, drawing, and sculpture, which are primarily visual in nature.",
+        "synonyms": [
+          "fine arts",
+          "graphic arts"
+        ]
+      },
+      {
+        "word": "chemistry",
+        "description": "The branch of science dealing with the identification and properties of substances.",
+        "synonyms": []
+      },
+      {
+        "word": "humanities",
+        "description": "Academic disciplines that study aspects of human society and culture.",
+        "synonyms": [
+          "liberal arts",
+          "letters",
+          "classics"
+        ]
+      }
+    ],
+    "studying_at_college": [
+      {
+        "word": "course outline",
+        "description": "A document summarizing the topics, assignments, and schedule for a specific academic course.",
+        "synonyms": [
+          "syllabus",
+          "curriculum plan"
+        ]
+      },
+      {
+        "word": "group discussion",
+        "description": "A learning activity where students talk about a topic together to share ideas.",
+        "synonyms": [
+          "seminar",
+          "collaborative talk"
+        ]
+      },
+      {
+        "word": "handout",
+        "description": "A document with information or exercises given to students in a class.",
+        "synonyms": [
+          "worksheet",
+          "printout",
+          "leaflet"
+        ]
+      },
+      {
+        "word": "written work",
+        "description": "Any academic task submitted in written form, such as an essay or report.",
+        "synonyms": [
+          "assignment",
+          "paper",
+          "coursework"
+        ]
+      },
+      {
+        "word": "report writing",
+        "description": "The process of creating a formal document that presents information in an organized format.",
+        "synonyms": []
+      },
+      {
+        "word": "research",
+        "description": "A systematic investigation to establish facts and reach new conclusions.",
+        "synonyms": [
+          "study",
+          "investigation",
+          "inquiry"
+        ]
+      },
+      {
+        "word": "proofreading",
+        "description": "The process of carefully checking a piece of writing for errors in spelling and grammar.",
+        "synonyms": [
+          "editing",
+          "checking",
+          "revising"
+        ]
+      },
+      {
+        "word": "experiment",
+        "description": "A scientific procedure undertaken to make a discovery or test a hypothesis.",
+        "synonyms": [
+          "test",
+          "trial",
+          "investigation"
+        ]
+      },
+      {
+        "word": "experience",
+        "description": "Practical contact with and observation of facts or events; can also refer to work experience.",
+        "synonyms": [
+          "practical knowledge",
+          "involvement"
+        ]
+      },
+      {
+        "word": "reference",
+        "description": "A source of information, like a book or article, cited in academic writing.",
+        "synonyms": [
+          "citation",
+          "source",
+          "bibliography"
+        ]
+      },
+      {
+        "word": "textbook",
+        "description": "A book used as a standard work for the study of a particular subject.",
+        "synonyms": [
+          "coursebook",
+          "manual"
+        ]
+      },
+      {
+        "word": "dictionary",
+        "description": "A book or electronic resource that lists words and their meanings.",
+        "synonyms": [
+          "lexicon",
+          "wordbook"
+        ]
+      },
+      {
+        "word": "laptop",
+        "description": "A portable computer suitable for use while traveling.",
+        "synonyms": [
+          "notebook computer"
+        ]
+      },
+      {
+        "word": "printer",
+        "description": "A machine for printing text or pictures onto paper from a computer.",
+        "synonyms": []
+      },
+      {
+        "word": "student advisor",
+        "description": "A staff member who helps students with academic planning and personal concerns.",
+        "synonyms": [
+          "counselor",
+          "academic guide"
+        ]
+      },
+      {
+        "word": "teamwork",
+        "description": "The combined, effective action of a group of people.",
+        "synonyms": [
+          "collaboration",
+          "cooperation"
+        ]
+      },
+      {
+        "word": "module",
+        "description": "A self-contained unit of study in a larger course or degree program.",
+        "synonyms": [
+          "unit",
+          "course component"
+        ]
+      },
+      {
+        "word": "topic",
+        "description": "The subject of a text, discussion, or piece of research.",
+        "synonyms": [
+          "subject",
+          "theme",
+          "issue"
+        ]
+      },
+      {
+        "word": "assessment",
+        "description": "The evaluation of the quality or ability of someone or something.",
+        "synonyms": [
+          "evaluation",
+          "examination",
+          "appraisal"
+        ]
+      },
+      {
+        "word": "library",
+        "description": "A building containing collections of books and other resources for borrowing or study.",
+        "synonyms": [
+          "information center"
+        ]
+      },
+      {
+        "word": "department",
+        "description": "A division of a university dealing with a particular field of knowledge.",
+        "synonyms": [
+          "faculty",
+          "school"
+        ]
+      },
+      {
+        "word": "computer centre",
+        "description": "A facility with multiple computers available for students to use.",
+        "synonyms": [
+          "computer lab"
+        ]
+      },
+      {
+        "word": "classroom",
+        "description": "A room where a class of students is taught.",
+        "synonyms": [
+          "lecture room",
+          "seminar room"
+        ]
+      },
+      {
+        "word": "lecture",
+        "description": "An educational talk given to an audience of students.",
+        "synonyms": [
+          "talk",
+          "address",
+          "discourse"
+        ]
+      },
+      {
+        "word": "tutor",
+        "description": "A teacher who instructs a single student or a very small group.",
+        "synonyms": [
+          "instructor",
+          "educator"
+        ]
+      },
+      {
+        "word": "main hall",
+        "description": "A large room used for events, lectures, and gatherings in a university.",
+        "synonyms": [
+          "auditorium",
+          "lecture theatre"
+        ]
+      },
+      {
+        "word": "attendance",
+        "description": "The action of being present at a place, such as a class or lecture.",
+        "synonyms": [
+          "presence",
+          "turnout"
+        ]
+      },
+      {
+        "word": "deadline",
+        "description": "The latest time or date by which an assignment must be finished.",
+        "synonyms": [
+          "due date",
+          "cutoff point"
+        ]
+      },
+      {
+        "word": "speech",
+        "description": "A formal talk given to an audience.",
+        "synonyms": [
+          "address",
+          "presentation",
+          "discourse"
+        ]
+      },
+      {
+        "word": "certificate",
+        "description": "An official document attesting to a fact, often the completion of a short course.",
+        "synonyms": [
+          "qualification",
+          "credential"
+        ]
+      },
+      {
+        "word": "diploma",
+        "description": "A certificate awarded by an educational institution for completing a course of study.",
+        "synonyms": [
+          "qualification",
+          "degree certificate"
+        ]
+      },
+      {
+        "word": "placement test",
+        "description": "An exam used to determine a student's existing knowledge and assign them to the correct level.",
+        "synonyms": [
+          "assessment test",
+          "level test"
+        ]
+      },
+      {
+        "word": "overseas students",
+        "description": "People who are studying in a country that is not their own.",
+        "synonyms": [
+          "international students",
+          "foreign students"
+        ]
+      },
+      {
+        "word": "full-time",
+        "description": "Studying or working for the whole of the available or standard working day or week.",
+        "synonyms": [
+          "whole-day"
+        ]
+      },
+      {
+        "word": "facilities",
+        "description": "The buildings, equipment, and services provided for a particular purpose.",
+        "synonyms": [
+          "amenities",
+          "resources",
+          "services"
+        ]
+      },
+      {
+        "word": "college",
+        "description": "An educational institution or establishment, in particular one providing higher education.",
+        "synonyms": [
+          "university",
+          "institute"
+        ]
+      },
+      {
+        "word": "dining room",
+        "description": "A room where meals are eaten, such as a canteen or refectory in a college.",
+        "synonyms": [
+          "canteen",
+          "refectory",
+          "cafeteria"
+        ]
+      },
+      {
+        "word": "specialist",
+        "description": "A person who is highly skilled or knowledgeable in a particular subject.",
+        "synonyms": [
+          "expert",
+          "authority"
+        ]
+      },
+      {
+        "word": "knowledge",
+        "description": "Facts, information, and skills acquired through experience or education.",
+        "synonyms": [
+          "understanding",
+          "expertise",
+          "awareness"
+        ]
+      },
+      {
+        "word": "accommodation",
+        "description": "A place for someone to live or stay, such as student housing.",
+        "synonyms": [
+          "housing",
+          "lodging",
+          "residence"
+        ]
+      },
+      {
+        "word": "home stay",
+        "description": "An arrangement where a student lives with a local family while studying.",
+        "synonyms": [
+          "host family"
+        ]
+      },
+      {
+        "word": "commencement",
+        "description": "A ceremony at which degrees or diplomas are awarded to students.",
+        "synonyms": [
+          "graduation ceremony",
+          "convocation"
+        ]
+      },
+      {
+        "word": "dissertation",
+        "description": "A long essay on a particular subject, especially one written for a university degree.",
+        "synonyms": [
+          "thesis",
+          "paper",
+          "treatise"
+        ]
+      },
+      {
+        "word": "leaflet",
+        "description": "A printed sheet of paper, sometimes folded, containing information or advertising.",
+        "synonyms": [
+          "brochure",
+          "pamphlet",
+          "flyer"
+        ]
+      },
+      {
+        "word": "faculty",
+        "description": "The teaching staff of a university or college.",
+        "synonyms": [
+          "academic staff",
+          "professors",
+          "lecturers"
+        ]
+      },
+      {
+        "word": "pupils",
+        "description": "People, usually children, who are taught by a teacher.",
+        "synonyms": [
+          "students",
+          "learners"
+        ]
+      },
+      {
+        "word": "feedback",
+        "description": "Information about reactions to a performance or piece of work, used as a basis for improvement.",
+        "synonyms": [
+          "response",
+          "critique",
+          "evaluation"
+        ]
+      },
+      {
+        "word": "tasks",
+        "description": "Pieces of work to be done or undertaken.",
+        "synonyms": [
+          "assignments",
+          "duties",
+          "jobs"
+        ]
+      },
+      {
+        "word": "outcomes",
+        "description": "The results or consequences of an action, course, or process.",
+        "synonyms": [
+          "results",
+          "consequences",
+          "effects"
+        ]
+      },
+      {
+        "word": "higher education",
+        "description": "Education at a university or college level.",
+        "synonyms": [
+          "tertiary education",
+          "post-secondary education"
+        ]
+      },
+      {
+        "word": "guidelines",
+        "description": "General rules, principles, or pieces of advice.",
+        "synonyms": [
+          "rules",
+          "instructions",
+          "directions"
+        ]
+      },
+      {
+        "word": "supervisor",
+        "description": "A person who supervises a student's research, especially for a thesis or dissertation.",
+        "synonyms": [
+          "advisor",
+          "mentor"
+        ]
+      },
+      {
+        "word": "bachelor's degree",
+        "description": "An undergraduate academic degree awarded by colleges and universities.",
+        "synonyms": [
+          "undergraduate degree"
+        ]
+      },
+      {
+        "word": "vocabulary",
+        "description": "The body of words used in a particular language.",
+        "synonyms": [
+          "lexicon",
+          "terminology"
+        ]
+      },
+      {
+        "word": "student support services",
+        "description": "The range of services offered to help students with academic and personal issues.",
+        "synonyms": [
+          "student services",
+          "welfare office"
+        ]
+      },
+      {
+        "word": "publication",
+        "description": "A book, journal, or other piece of writing that is made available to the public.",
+        "synonyms": [
+          "journal",
+          "article",
+          "paper"
+        ]
+      },
+      {
+        "word": "schedule",
+        "description": "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+        "synonyms": [
+          "timetable",
+          "agenda",
+          "program"
+        ]
+      },
+      {
+        "word": "registrar's office",
+        "description": "The university department responsible for student records, registration, and transcripts.",
+        "synonyms": [
+          "student records office"
+        ]
+      },
+      {
+        "word": "stationery",
+        "description": "Writing materials such as paper, pens, and envelopes.",
+        "synonyms": [
+          "writing supplies",
+          "office supplies"
+        ]
+      }
+    ],
+    "marketing": [
+      {
+        "word": "catalogue",
+        "description": "A publication containing a list of items for sale, often with descriptions and prices.",
+        "synonyms": [
+          "brochure",
+          "booklet",
+          "prospectus"
+        ]
+      },
+      {
+        "word": "interview",
+        "description": "A formal meeting to question or consult someone, often for a job or research.",
+        "synonyms": [
+          "meeting",
+          "consultation",
+          "discussion"
+        ]
+      },
+      {
+        "word": "newsletter",
+        "description": "A bulletin issued periodically to the members of a society, business, or organization.",
+        "synonyms": [
+          "bulletin",
+          "report",
+          "publication"
+        ]
+      },
+      {
+        "word": "competition",
+        "description": "The activity of striving to gain something by defeating or establishing superiority over others.",
+        "synonyms": [
+          "rivalry",
+          "contest",
+          "championship"
+        ]
+      },
+      {
+        "word": "TV program",
+        "description": "A broadcast show on television.",
+        "synonyms": [
+          "show",
+          "broadcast",
+          "series"
+        ]
+      },
+      {
+        "word": "strategies",
+        "description": "Plans of action or policies designed to achieve a major or overall aim.",
+        "synonyms": [
+          "plans",
+          "tactics",
+          "policies"
+        ]
+      },
+      {
+        "word": "research method",
+        "description": "A specific procedure for collecting and analyzing data in a study.",
+        "synonyms": [
+          "approach",
+          "technique",
+          "procedure"
+        ]
+      },
+      {
+        "word": "entertainment industry",
+        "description": "The group of businesses involved in providing amusement, such as film, television, and theatre.",
+        "synonyms": [
+          "show business"
+        ]
+      },
+      {
+        "word": "leadership",
+        "description": "The action of leading a group of people or an organization.",
+        "synonyms": [
+          "guidance",
+          "management",
+          "direction"
+        ]
+      },
+      {
+        "word": "management",
+        "description": "The process of dealing with or controlling things or people.",
+        "synonyms": [
+          "administration",
+          "control",
+          "supervision"
+        ]
+      },
+      {
+        "word": "display",
+        "description": "A public showing of things for people to see, often in a store or museum.",
+        "synonyms": [
+          "exhibit",
+          "exhibition",
+          "presentation"
+        ]
+      },
+      {
+        "word": "products",
+        "description": "Articles or substances that are manufactured or refined for sale.",
+        "synonyms": [
+          "goods",
+          "merchandise",
+          "wares"
+        ]
+      },
+      {
+        "word": "customer",
+        "description": "A person who buys goods or services from a shop or business.",
+        "synonyms": [
+          "client",
+          "consumer",
+          "patron"
+        ]
+      },
+      {
+        "word": "special offer",
+        "description": "A discount, deal, or gift offered to customers for a limited time.",
+        "synonyms": [
+          "discount",
+          "promotion",
+          "deal"
+        ]
+      },
+      {
+        "word": "collecting data",
+        "description": "The process of gathering and measuring information on targeted variables.",
+        "synonyms": [
+          "gathering information",
+          "data collection"
+        ]
+      },
+      {
+        "word": "questionnaire",
+        "description": "A set of printed questions with a choice of answers, for a survey or statistical study.",
+        "synonyms": [
+          "survey",
+          "form",
+          "poll"
+        ]
+      },
+      {
+        "word": "survey",
+        "description": "An investigation of the opinions or experience of a group of people.",
+        "synonyms": [
+          "poll",
+          "review",
+          "questionnaire"
+        ]
+      },
+      {
+        "word": "mass media",
+        "description": "The main means of communication (e.g., television, radio) that reach large numbers of people.",
+        "synonyms": [
+          "the press",
+          "the media"
+        ]
+      },
+      {
+        "word": "statistic",
+        "description": "A fact or piece of data obtained from a study of a large quantity of numerical data.",
+        "synonyms": [
+          "figure",
+          "data point",
+          "number"
+        ]
+      },
+      {
+        "word": "profit margin",
+        "description": "The difference between the selling price of a product and the cost to produce it.",
+        "synonyms": [
+          "markup",
+          "margin"
+        ]
+      },
+      {
+        "word": "poll",
+        "description": "The process of questioning people to get information about their opinions.",
+        "synonyms": [
+          "survey",
+          "canvass",
+          "vote"
+        ]
+      },
+      {
+        "word": "business card",
+        "description": "A small card printed with a person's name and business affiliation details.",
+        "synonyms": [
+          "calling card"
+        ]
+      },
+      {
+        "word": "training",
+        "description": "The action of teaching a person a particular skill or type of behavior.",
+        "synonyms": [
+          "instruction",
+          "coaching",
+          "education"
+        ]
+      },
+      {
+        "word": "trainee",
+        "description": "A person undergoing training for a particular job or profession.",
+        "synonyms": [
+          "apprentice",
+          "intern",
+          "novice"
+        ]
+      },
+      {
+        "word": "merchandise",
+        "description": "Goods to be bought and sold.",
+        "synonyms": [
+          "goods",
+          "products",
+          "stock"
+        ]
+      },
+      {
+        "word": "manufacture",
+        "description": "To make something on a large scale using machinery.",
+        "synonyms": [
+          "produce",
+          "create",
+          "fabricate"
+        ]
+      },
+      {
+        "word": "recruitment",
+        "description": "The action of finding new people to join an organization or company.",
+        "synonyms": [
+          "hiring",
+          "employment",
+          "enlistment"
+        ]
+      }
+    ],
+    "nature": [
+      {
+        "word": "field",
+        "description": "An open area of land, especially one planted with crops or pasture, typically bounded by hedges or fences.",
+        "synonyms": [
+          "meadow",
+          "pasture",
+          "paddock"
+        ]
+      },
+      {
+        "word": "footbridge",
+        "description": "A bridge designed solely for pedestrians.",
+        "synonyms": [
+          "walkway",
+          "gangway",
+          "overpass"
+        ]
+      },
+      {
+        "word": "environment",
+        "description": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+        "synonyms": [
+          "surroundings",
+          "habitat",
+          "atmosphere"
+        ]
+      },
+      {
+        "word": "waterfall",
+        "description": "A cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.",
+        "synonyms": [
+          "cascade",
+          "cataract",
+          "falls"
+        ]
+      },
+      {
+        "word": "river",
+        "description": "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+        "synonyms": [
+          "stream",
+          "waterway",
+          "brook"
+        ]
+      },
+      {
+        "word": "mountain",
+        "description": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+        "synonyms": [
+          "peak",
+          "summit",
+          "mount"
+        ]
+      },
+      {
+        "word": "forest",
+        "description": "A large area covered chiefly with trees and undergrowth.",
+        "synonyms": [
+          "woods",
+          "jungle",
+          "woodland"
+        ]
+      },
+      {
+        "word": "village",
+        "description": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+        "synonyms": [
+          "hamlet",
+          "settlement"
+        ]
+      },
+      {
+        "word": "coast",
+        "description": "The part of the land adjoining or near the sea.",
+        "synonyms": [
+          "shoreline",
+          "seashore",
+          "coastline"
+        ]
+      },
+      {
+        "word": "reef",
+        "description": "A ridge of rock, sand, or coral just above or below the surface of the sea.",
+        "synonyms": [
+          "coral reef",
+          "shoal"
+        ]
+      },
+      {
+        "word": "lake",
+        "description": "A large body of water surrounded by land.",
+        "synonyms": [
+          "pond",
+          "reservoir",
+          "loch"
+        ]
+      },
+      {
+        "word": "valley",
+        "description": "A low area between hills or mountains, typically with a river or stream flowing through it.",
+        "synonyms": [
+          "dale",
+          "glen",
+          "hollow"
+        ]
+      },
+      {
+        "word": "hill",
+        "description": "A naturally raised area of land, not as high or craggy as a mountain.",
+        "synonyms": [
+          "mound",
+          "hillock",
+          "elevation"
+        ]
+      },
+      {
+        "word": "cliff",
+        "description": "A steep rock face, especially at the edge of the sea.",
+        "synonyms": [
+          "precipice",
+          "escarpment",
+          "bluff"
+        ]
+      },
+      {
+        "word": "island",
+        "description": "A piece of land completely surrounded by water.",
+        "synonyms": [
+          "islet",
+          "isle",
+          "atoll"
+        ]
+      },
+      {
+        "word": "peninsula",
+        "description": "A piece of land almost surrounded by water or projecting out into a body of water.",
+        "synonyms": [
+          "cape",
+          "headland"
+        ]
+      },
+      {
+        "word": "earthquake",
+        "description": "A sudden violent shaking of the ground, causing great destruction.",
+        "synonyms": [
+          "tremor",
+          "quake",
+          "seism"
+        ]
+      },
+      {
+        "word": "avalanche",
+        "description": "A mass of snow, ice, and rocks falling rapidly down a mountainside.",
+        "synonyms": [
+          "snowslide",
+          "landslide"
+        ]
+      },
+      {
+        "word": "tornado",
+        "description": "A mobile, destructive vortex of violently rotating winds having the appearance of a funnel-shaped cloud.",
+        "synonyms": [
+          "twister",
+          "cyclone",
+          "whirlwind"
+        ]
+      },
+      {
+        "word": "typhoon",
+        "description": "A tropical storm in the region of the Indian or western Pacific oceans.",
+        "synonyms": [
+          "cyclone",
+          "hurricane"
+        ]
+      },
+      {
+        "word": "desertification",
+        "description": "The process by which fertile land becomes desert, typically as a result of drought or deforestation.",
+        "synonyms": [
+          "aridification"
+        ]
+      },
+      {
+        "word": "volcano",
+        "description": "A mountain or hill having a crater through which lava, rock fragments, and gas are or have been erupted from the earth's crust.",
+        "synonyms": [
+          "mount",
+          "peak"
+        ]
+      },
+      {
+        "word": "disaster",
+        "description": "A sudden event, such as an accident or a natural catastrophe, that causes great damage or loss of life.",
+        "synonyms": [
+          "catastrophe",
+          "calamity",
+          "tragedy"
+        ]
+      },
+      {
+        "word": "catastrophe",
+        "description": "An event causing great and often sudden damage or suffering; a disaster.",
+        "synonyms": [
+          "disaster",
+          "calamity",
+          "crisis"
+        ]
+      },
+      {
+        "word": "erosion",
+        "description": "The process of wearing away rock or soil by wind, water, or other natural agents.",
+        "synonyms": [
+          "corrosion",
+          "abrasion",
+          "weathering"
+        ]
+      },
+      {
+        "word": "landslides",
+        "description": "The sliding down of a mass of earth or rock from a mountain or cliff.",
+        "synonyms": [
+          "rockslide",
+          "mudslide"
+        ]
+      },
+      {
+        "word": "storm",
+        "description": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+        "synonyms": [
+          "tempest",
+          "gale",
+          "squall"
+        ]
+      },
+      {
+        "word": "flood",
+        "description": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land.",
+        "synonyms": [
+          "deluge",
+          "inundation",
+          "overflow"
+        ]
+      },
+      {
+        "word": "hurricane",
+        "description": "A severe storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+        "synonyms": [
+          "cyclone",
+          "typhoon",
+          "storm"
+        ]
+      },
+      {
+        "word": "pond",
+        "description": "A small body of still water formed naturally or by hollowing or embanking.",
+        "synonyms": [
+          "pool",
+          "puddle",
+          "tarn"
+        ]
+      },
+      {
+        "word": "jungle",
+        "description": "An area of land overgrown with dense forest and tangled vegetation, typically in the tropics.",
+        "synonyms": [
+          "rainforest",
+          "forest",
+          "woods"
+        ]
+      },
+      {
+        "word": "oasis",
+        "description": "A fertile spot in a desert where water is found.",
+        "synonyms": [
+          "sanctuary",
+          "refuge",
+          "haven"
+        ]
+      },
+      {
+        "word": "dam",
+        "description": "A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.",
+        "synonyms": [
+          "barrage",
+          "weir",
+          "dyke"
+        ]
+      },
+      {
+        "word": "canyon",
+        "description": "A deep gorge, typically one with a river flowing through it.",
+        "synonyms": [
+          "gorge",
+          "ravine",
+          "gully"
+        ]
+      }
+    ],
+    "health": [
+      {
+        "word": "yoga",
+        "description": "A discipline involving specific postures and breathing control for health and relaxation.",
+        "synonyms": []
+      },
+      {
+        "word": "tai-chi",
+        "description": "A Chinese martial art involving very slow, controlled movements.",
+        "synonyms": []
+      },
+      {
+        "word": "keep-fit",
+        "description": "To stay physically healthy through regular exercise.",
+        "synonyms": [
+          "stay in shape",
+          "exercise"
+        ]
+      },
+      {
+        "word": "salad bar",
+        "description": "A self-service counter or table where customers can create their own salads.",
+        "synonyms": []
+      },
+      {
+        "word": "vegetarian",
+        "description": "A person who does not eat meat or fish.",
+        "synonyms": [
+          "herbivore",
+          "plant-eater"
+        ]
+      },
+      {
+        "word": "outdoor activities",
+        "description": "Leisure pursuits undertaken in the open air.",
+        "synonyms": [
+          "recreation",
+          "open-air pursuits"
+        ]
+      },
+      {
+        "word": "leisure time",
+        "description": "Time when one is not working; free time.",
+        "synonyms": [
+          "free time",
+          "downtime",
+          "recreation"
+        ]
+      },
+      {
+        "word": "disease",
+        "description": "A disorder of structure or function; an illness or sickness.",
+        "synonyms": [
+          "illness",
+          "sickness",
+          "ailment"
+        ]
+      },
+      {
+        "word": "meal",
+        "description": "An occasion when food is eaten, or the food itself.",
+        "synonyms": [
+          "repast",
+          "fare"
+        ]
+      },
+      {
+        "word": "protein",
+        "description": "An essential nutrient found in foods like meat, cheese, and eggs.",
+        "synonyms": []
+      },
+      {
+        "word": "balanced diet",
+        "description": "A diet providing adequate amounts of all necessary nutrients for good health.",
+        "synonyms": [
+          "healthy eating",
+          "nutritious diet"
+        ]
+      },
+      {
+        "word": "food pyramid",
+        "description": "A diagram representing the optimal number of servings from various food groups.",
+        "synonyms": [
+          "dietary guide",
+          "nutrition chart"
+        ]
+      },
+      {
+        "word": "vitamin",
+        "description": "An organic compound essential for normal growth and nutrition.",
+        "synonyms": []
+      },
+      {
+        "word": "carbohydrates",
+        "description": "A major source of energy found in foods like bread, pasta, and rice.",
+        "synonyms": [
+          "carbs",
+          "sugars",
+          "starches"
+        ]
+      },
+      {
+        "word": "rice",
+        "description": "A grain widely cultivated as a staple food, especially in Asia.",
+        "synonyms": []
+      },
+      {
+        "word": "pasta",
+        "description": "A food made from wheat dough, formed into various shapes like spaghetti or macaroni.",
+        "synonyms": [
+          "noodles"
+        ]
+      },
+      {
+        "word": "potatoes",
+        "description": "A starchy plant tuber eaten as a vegetable.",
+        "synonyms": [
+          "spuds"
+        ]
+      },
+      {
+        "word": "pizza",
+        "description": "An Italian dish of a flat, round base of dough baked with toppings.",
+        "synonyms": []
+      },
+      {
+        "word": "tomatoes",
+        "description": "A glossy red fruit, commonly eaten as a vegetable.",
+        "synonyms": []
+      },
+      {
+        "word": "bread",
+        "description": "A staple food made from flour, water, and yeast, mixed together and baked.",
+        "synonyms": [
+          "loaf"
+        ]
+      },
+      {
+        "word": "cereals",
+        "description": "Grains used for food, such as wheat or corn, or a breakfast food made from them.",
+        "synonyms": [
+          "grain"
+        ]
+      },
+      {
+        "word": "minerals",
+        "description": "Inorganic substances, like calcium or iron, needed by the human body for good health.",
+        "synonyms": [
+          "nutrients"
+        ]
+      },
+      {
+        "word": "zinc",
+        "description": "A chemical element and essential trace mineral for human health.",
+        "synonyms": []
+      },
+      {
+        "word": "meat",
+        "description": "The flesh of an animal, typically a mammal or bird, as food.",
+        "synonyms": [
+          "flesh"
+        ]
+      },
+      {
+        "word": "seafood",
+        "description": "Shellfish and sea fish served as food.",
+        "synonyms": [
+          "fish",
+          "shellfish"
+        ]
+      },
+      {
+        "word": "eggs",
+        "description": "An oval object laid by female birds, often eaten as food.",
+        "synonyms": []
+      },
+      {
+        "word": "beans",
+        "description": "An edible seed, growing in long pods on certain leguminous plants.",
+        "synonyms": [
+          "legumes",
+          "pulses"
+        ]
+      },
+      {
+        "word": "milk",
+        "description": "A white fluid from female mammals for nourishing their young, often from a cow.",
+        "synonyms": []
+      },
+      {
+        "word": "cheese",
+        "description": "A food made from the pressed curds of milk.",
+        "synonyms": []
+      },
+      {
+        "word": "yoghurt",
+        "description": "A semi-solid food prepared from milk fermented by added bacteria.",
+        "synonyms": [
+          "yogurt"
+        ]
+      },
+      {
+        "word": "fruit",
+        "description": "The sweet, fleshy product of a tree or plant that contains seeds.",
+        "synonyms": []
+      },
+      {
+        "word": "vegetables",
+        "description": "A plant or part of a plant used as food.",
+        "synonyms": [
+          "veggies"
+        ]
+      },
+      {
+        "word": "citrus fruits",
+        "description": "Fruits like oranges, lemons, and grapefruit, known for their acidity.",
+        "synonyms": []
+      },
+      {
+        "word": "green pepper",
+        "description": "The unripe fruit of a sweet pepper, eaten as a vegetable.",
+        "synonyms": [
+          "bell pepper",
+          "capsicum"
+        ]
+      },
+      {
+        "word": "blackcurrant",
+        "description": "A small, round, edible black berry used in drinks and desserts.",
+        "synonyms": []
+      },
+      {
+        "word": "nuts",
+        "description": "A fruit consisting of a hard shell around an edible kernel.",
+        "synonyms": [
+          "kernels"
+        ]
+      },
+      {
+        "word": "egg yolk",
+        "description": "The yellow internal part of an egg, rich in protein and fat.",
+        "synonyms": [
+          "yolk"
+        ]
+      },
+      {
+        "word": "liver",
+        "description": "A large organ in the abdomen which can also be eaten as food.",
+        "synonyms": []
+      },
+      {
+        "word": "medicine",
+        "description": "A drug or other preparation for the treatment or prevention of disease.",
+        "synonyms": [
+          "medication",
+          "remedy"
+        ]
+      },
+      {
+        "word": "treatment",
+        "description": "Medical care given to a patient for an illness or injury.",
+        "synonyms": [
+          "care",
+          "therapy",
+          "remedy"
+        ]
+      },
+      {
+        "word": "remedy",
+        "description": "A medicine or treatment for a disease or injury.",
+        "synonyms": [
+          "cure",
+          "solution",
+          "treatment"
+        ]
+      },
+      {
+        "word": "nursing care",
+        "description": "The care of patients provided by a qualified nurse.",
+        "synonyms": [
+          "medical attention"
+        ]
+      },
+      {
+        "word": "nursery",
+        "description": "A place where young children are cared for during the day.",
+        "synonyms": [
+          "crèche",
+          "daycare"
+        ]
+      },
+      {
+        "word": "regular exercise",
+        "description": "Physical activity performed consistently to improve health and fitness.",
+        "synonyms": [
+          "routine workout",
+          "consistent activity"
+        ]
+      }
+    ],
+    "the_environment": [
+      {
+        "word": "greenhouse effect",
+        "description": "The trapping of the sun's warmth in a planet's lower atmosphere due to certain gases.",
+        "synonyms": []
+      },
+      {
+        "word": "acid rain",
+        "description": "Rainfall made acidic by atmospheric pollution that causes environmental harm.",
+        "synonyms": [
+          "acid precipitation"
+        ]
+      },
+      {
+        "word": "global warming",
+        "description": "The long-term heating of Earth's climate system observed since the pre-industrial period.",
+        "synonyms": [
+          "climate change"
+        ]
+      },
+      {
+        "word": "carbon dioxide",
+        "description": "A colorless, odorless gas produced by burning carbon and organic compounds, and by respiration (CO2).",
+        "synonyms": [
+          "CO2"
+        ]
+      },
+      {
+        "word": "burning fossil fuels",
+        "description": "The combustion of materials like coal, oil, and natural gas to produce energy, releasing CO2.",
+        "synonyms": []
+      },
+      {
+        "word": "exhaust fumes",
+        "description": "Gases ejected from an engine as waste products.",
+        "synonyms": [
+          "emissions",
+          "exhaust"
+        ]
+      },
+      {
+        "word": "deforestation",
+        "description": "The action of clearing a wide area of trees.",
+        "synonyms": [
+          "logging",
+          "clear-cutting"
+        ]
+      },
+      {
+        "word": "nitrogen oxide",
+        "description": "A gas that contributes to the formation of smog and acid rain.",
+        "synonyms": [
+          "NOx"
+        ]
+      },
+      {
+        "word": "smog",
+        "description": "Fog or haze combined with smoke and other atmospheric pollutants.",
+        "synonyms": [
+          "haze",
+          "air pollution"
+        ]
+      },
+      {
+        "word": "climate",
+        "description": "The weather conditions prevailing in an area in general or over a long period.",
+        "synonyms": [
+          "weather pattern"
+        ]
+      },
+      {
+        "word": "pollution",
+        "description": "The presence of harmful substances or contaminants in the environment.",
+        "synonyms": [
+          "contamination",
+          "adulteration"
+        ]
+      },
+      {
+        "word": "temperature",
+        "description": "The degree of heat present in a substance or object.",
+        "synonyms": [
+          "heat",
+          "warmth"
+        ]
+      },
+      {
+        "word": "power plants",
+        "description": "Industrial facilities for the generation of electric power.",
+        "synonyms": [
+          "power station",
+          "generator"
+        ]
+      },
+      {
+        "word": "landfill",
+        "description": "A place to dispose of waste material by burying it and covering it over with soil.",
+        "synonyms": [
+          "dump",
+          "tip",
+          "junkyard"
+        ]
+      },
+      {
+        "word": "cattle",
+        "description": "Large ruminant animals with horns and cloven hoofs, domesticated for meat or milk.",
+        "synonyms": [
+          "cows",
+          "livestock",
+          "bovine"
+        ]
+      },
+      {
+        "word": "wind turbine",
+        "description": "A large wheel-like machine that is turned by the wind to produce electricity.",
+        "synonyms": [
+          "windmill"
+        ]
+      },
+      {
+        "word": "solar power",
+        "description": "Power obtained by harnessing the energy of the sun's rays.",
+        "synonyms": [
+          "sun power"
+        ]
+      },
+      {
+        "word": "hydroelectric power",
+        "description": "Electricity generated by using the energy of moving water.",
+        "synonyms": [
+          "hydropower"
+        ]
+      },
+      {
+        "word": "renewable",
+        "description": "A source of energy that is not depleted when used, such as wind or solar power.",
+        "synonyms": [
+          "sustainable",
+          "replenishable"
+        ]
+      },
+      {
+        "word": "source of energy",
+        "description": "The origin from which power can be obtained.",
+        "synonyms": [
+          "power source"
+        ]
+      },
+      {
+        "word": "reliable",
+        "description": "Consistently good in quality or performance; able to be trusted.",
+        "synonyms": [
+          "dependable",
+          "trustworthy"
+        ]
+      },
+      {
+        "word": "solar panels",
+        "description": "Devices that convert light into electricity.",
+        "synonyms": [
+          "photovoltaic panels"
+        ]
+      },
+      {
+        "word": "environmentally friendly",
+        "description": "Not harmful to the environment.",
+        "synonyms": [
+          "eco-friendly",
+          "green",
+          "sustainable"
+        ]
+      },
+      {
+        "word": "oxygen",
+        "description": "A chemical element that is a colorless, odorless reactive gas, essential for respiration.",
+        "synonyms": [
+          "O2"
+        ]
+      },
+      {
+        "word": "chemical-free",
+        "description": "Containing no synthetic or artificial additives.",
+        "synonyms": [
+          "natural",
+          "organic"
+        ]
+      },
+      {
+        "word": "desert",
+        "description": "A barren or desolate area, especially one with little or no vegetation.",
+        "synonyms": [
+          "wasteland",
+          "barrens"
+        ]
+      },
+      {
+        "word": "degradation",
+        "description": "The process in which the quality of something is damaged or destroyed.",
+        "synonyms": [
+          "deterioration",
+          "decline"
+        ]
+      },
+      {
+        "word": "vegetation",
+        "description": "Plants found in a particular area or habitat.",
+        "synonyms": [
+          "plant life",
+          "flora",
+          "greenery"
+        ]
+      },
+      {
+        "word": "sea level",
+        "description": "The average level of the surface of the ocean.",
+        "synonyms": []
+      },
+      {
+        "word": "ocean currents",
+        "description": "Continuous, directed movements of seawater generated by a number of forces.",
+        "synonyms": []
+      },
+      {
+        "word": "soil conditioner",
+        "description": "A product which is added to soil to improve its physical qualities.",
+        "synonyms": [
+          "fertilizer",
+          "compost"
+        ]
+      },
+      {
+        "word": "coal",
+        "description": "A black or dark brown rock consisting mainly of carbonized plant matter, used as a fuel.",
+        "synonyms": []
+      },
+      {
+        "word": "fossil fuels",
+        "description": "Natural fuels such as coal or gas, formed from the remains of living organisms.",
+        "synonyms": []
+      },
+      {
+        "word": "firewood",
+        "description": "Wood that is burnt as fuel.",
+        "synonyms": [
+          "logs",
+          "kindling"
+        ]
+      },
+      {
+        "word": "drought",
+        "description": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+        "synonyms": [
+          "dry spell",
+          "water shortage"
+        ]
+      },
+      {
+        "word": "contaminated",
+        "description": "Made impure by exposure to or addition of a poisonous or polluting substance.",
+        "synonyms": [
+          "polluted",
+          "tainted",
+          "adulterated"
+        ]
+      }
+    ],
+    "the_animal_kingdom": [
+      {
+        "word": "birds of prey",
+        "description": "Birds that hunt and kill other animals for food, such as eagles and hawks.",
+        "synonyms": [
+          "raptors"
+        ]
+      },
+      {
+        "word": "seabirds",
+        "description": "Birds that are adapted to life within a marine environment.",
+        "synonyms": [
+          "marine birds"
+        ]
+      },
+      {
+        "word": "poultry and game",
+        "description": "Domesticated birds kept for eggs or meat, and wild animals hunted for food.",
+        "synonyms": [
+          "fowl",
+          "wildlife"
+        ]
+      },
+      {
+        "word": "mammals",
+        "description": "Warm-blooded vertebrates distinguished by the possession of hair or fur and the secretion of milk by females.",
+        "synonyms": []
+      },
+      {
+        "word": "cetacean",
+        "description": "A marine mammal of the order Cetacea, such as a whale, dolphin, or porpoise.",
+        "synonyms": [
+          "marine mammal"
+        ]
+      },
+      {
+        "word": "whale",
+        "description": "A very large marine mammal with a streamlined hairless body and a horizontal tail fin.",
+        "synonyms": []
+      },
+      {
+        "word": "primates",
+        "description": "A group of mammals that includes monkeys, apes, and humans.",
+        "synonyms": []
+      },
+      {
+        "word": "rodents",
+        "description": "Mammals of an order distinguished by strong gnawing incisor teeth, such as rats, mice, and squirrels.",
+        "synonyms": []
+      },
+      {
+        "word": "fish",
+        "description": "A limbless cold-blooded vertebrate animal with gills and fins, living wholly in water.",
+        "synonyms": []
+      },
+      {
+        "word": "amphibian",
+        "description": "A cold-blooded vertebrate that lives on both land and in water, such as a frog.",
+        "synonyms": []
+      },
+      {
+        "word": "reptile",
+        "description": "A cold-blooded vertebrate of a class that includes snakes, lizards, crocodiles, and turtles.",
+        "synonyms": []
+      },
+      {
+        "word": "insects",
+        "description": "A small arthropod animal that has six legs and generally one or two pairs of wings.",
+        "synonyms": [
+          "bugs"
+        ]
+      },
+      {
+        "word": "octopus",
+        "description": "A sea animal that has a soft body and eight long arms.",
+        "synonyms": []
+      },
+      {
+        "word": "phylum",
+        "description": "A principal taxonomic category that ranks above class and below kingdom.",
+        "synonyms": [
+          "division"
+        ]
+      },
+      {
+        "word": "class",
+        "description": "A major taxonomic rank below phylum and above order.",
+        "synonyms": [
+          "category",
+          "group"
+        ]
+      },
+      {
+        "word": "order",
+        "description": "A taxonomic rank used in the classification of organisms, below class and above family.",
+        "synonyms": []
+      },
+      {
+        "word": "family",
+        "description": "A taxonomic rank between order and genus.",
+        "synonyms": []
+      },
+      {
+        "word": "genus",
+        "description": "A taxonomic rank that is below family and above species.",
+        "synonyms": []
+      },
+      {
+        "word": "species",
+        "description": "A group of living organisms consisting of similar individuals capable of exchanging genes.",
+        "synonyms": [
+          "type",
+          "kind",
+          "breed"
+        ]
+      },
+      {
+        "word": "livestock",
+        "description": "Farm animals regarded as an asset.",
+        "synonyms": [
+          "farm animals",
+          "cattle",
+          "stock"
+        ]
+      },
+      {
+        "word": "creature",
+        "description": "An animal, as distinct from a human being.",
+        "synonyms": [
+          "being",
+          "beast",
+          "organism"
+        ]
+      },
+      {
+        "word": "lion",
+        "description": "A large cat of Africa and India that has a tawny coat and a shaggy mane in the male.",
+        "synonyms": [
+          "king of beasts"
+        ]
+      },
+      {
+        "word": "penguin",
+        "description": "A large flightless seabird of the southern hemisphere, with black and white plumage.",
+        "synonyms": []
+      }
+    ],
+    "plants": [
+      {
+        "word": "mushroom",
+        "description": "A fungal growth that typically takes the form of a domed cap on a stalk, often used in cooking.",
+        "synonyms": [
+          "toadstool",
+          "fungi"
+        ]
+      },
+      {
+        "word": "fungus",
+        "description": "A group of spore-producing organisms that feed on organic matter, including molds, yeast, and mushrooms.",
+        "synonyms": [
+          "mold",
+          "mildew"
+        ]
+      },
+      {
+        "word": "leaves",
+        "description": "The main organs of photosynthesis in most plants, typically a flat, green structure.",
+        "synonyms": [
+          "foliage",
+          "greenery",
+          "fronds"
+        ]
+      },
+      {
+        "word": "seed",
+        "description": "A plant's unit of reproduction, from which a new plant can grow.",
+        "synonyms": [
+          "kernel",
+          "pip",
+          "spore"
+        ]
+      },
+      {
+        "word": "core",
+        "description": "The tough central part of certain fruits, like an apple, which contains the seeds.",
+        "synonyms": [
+          "center",
+          "heart",
+          "pith"
+        ]
+      },
+      {
+        "word": "bark",
+        "description": "The tough, protective outer layer of the trunk and branches of a tree.",
+        "synonyms": [
+          "rind",
+          "cortex",
+          "husk"
+        ]
+      },
+      {
+        "word": "trunk",
+        "description": "The main woody stem of a tree, as distinct from its branches and roots.",
+        "synonyms": [
+          "bole",
+          "stem",
+          "stalk"
+        ]
+      },
+      {
+        "word": "twig",
+        "description": "A very small, thin branch of a tree or shrub.",
+        "synonyms": [
+          "branchlet",
+          "sprig",
+          "shoot"
+        ]
+      },
+      {
+        "word": "branch",
+        "description": "A part of a tree which grows out from the trunk or a bough.",
+        "synonyms": [
+          "limb",
+          "bough",
+          "offshoot"
+        ]
+      },
+      {
+        "word": "flower",
+        "description": "The part of a plant that blossoms and is often colorful, involved in reproduction.",
+        "synonyms": [
+          "blossom",
+          "bloom"
+        ]
+      },
+      {
+        "word": "stem",
+        "description": "The main stalk of a plant that supports the leaves and flowers.",
+        "synonyms": [
+          "stalk",
+          "shoot"
+        ]
+      },
+      {
+        "word": "roots",
+        "description": "The part of a plant that attaches it to the ground, absorbing water and nutrients.",
+        "synonyms": [
+          "root system",
+          "rhizome",
+          "tubers"
+        ]
+      },
+      {
+        "word": "cluster",
+        "description": "A group of similar things, such as flowers or fruits, growing closely together.",
+        "synonyms": [
+          "bunch",
+          "clump",
+          "group"
+        ]
+      },
+      {
+        "word": "fertilizer",
+        "description": "A substance added to soil to increase its fertility and help plants grow.",
+        "synonyms": [
+          "plant food",
+          "manure",
+          "compost"
+        ]
+      }
+    ],
+    "continents": [
+      {
+        "word": "South America",
+        "description": "A continent in the Western Hemisphere, mostly in the Southern Hemisphere.",
+        "synonyms": []
+      },
+      {
+        "word": "North America",
+        "description": "A continent in the Northern Hemisphere and almost entirely within the Western Hemisphere.",
+        "synonyms": []
+      },
+      {
+        "word": "Africa",
+        "description": "The world's second-largest continent, located south of Europe.",
+        "synonyms": []
+      },
+      {
+        "word": "Asia",
+        "description": "The largest and most populous continent on Earth, located primarily in the Eastern Hemisphere.",
+        "synonyms": []
+      },
+      {
+        "word": "Europe",
+        "description": "A continent that is part of the landmass of Eurasia, west of Asia.",
+        "synonyms": []
+      },
+      {
+        "word": "Australia",
+        "description": "The smallest continent, which is also a country, located in Oceania.",
+        "synonyms": [
+          "Oceania"
+        ]
+      },
+      {
+        "word": "Antarctica",
+        "description": "The Earth's southernmost continent, an ice-covered landmass containing the South Pole.",
+        "synonyms": []
+      }
+    ],
+    "countries": [
+      {
+        "word": "Egypt",
+        "description": "A transcontinental country spanning the northeast corner of Africa and southwest corner of Asia.",
+        "synonyms": []
+      },
+      {
+        "word": "Mexico",
+        "description": "A country in the southern portion of North America, known for its rich history and culture.",
+        "synonyms": []
+      },
+      {
+        "word": "France",
+        "description": "A country in Western Europe, famous for its art, cuisine, and landmarks like the Eiffel Tower.",
+        "synonyms": []
+      },
+      {
+        "word": "Indonesia",
+        "description": "A country in Southeast Asia, made up of thousands of volcanic islands.",
+        "synonyms": []
+      },
+      {
+        "word": "Turkey",
+        "description": "A transcontinental country located mainly on the Anatolian Peninsula in Western Asia.",
+        "synonyms": [
+          "Türkiye"
+        ]
+      },
+      {
+        "word": "England",
+        "description": "A country that is part of the United Kingdom, home to London and the River Thames.",
+        "synonyms": []
+      },
+      {
+        "word": "Germany",
+        "description": "A large country in Central Europe known for its engineering, automotive industry, and forests.",
+        "synonyms": []
+      },
+      {
+        "word": "China",
+        "description": "A country in East Asia, the world's most populous nation.",
+        "synonyms": []
+      },
+      {
+        "word": "Greece",
+        "description": "A country in Southeast Europe with thousands of islands, known as the birthplace of democracy.",
+        "synonyms": [
+          "Hellas"
+        ]
+      },
+      {
+        "word": "Brazil",
+        "description": "The largest country in South America, famous for its Amazon rainforest and Carnival festival.",
+        "synonyms": []
+      },
+      {
+        "word": "India",
+        "description": "A vast country in South Asia with diverse terrain, from Himalayan peaks to Indian Ocean coastline.",
+        "synonyms": []
+      },
+      {
+        "word": "North Korea",
+        "description": "A country in East Asia constituting the northern part of the Korean Peninsula.",
+        "synonyms": [
+          "DPRK"
+        ]
+      },
+      {
+        "word": "Malaysia",
+        "description": "A Southeast Asian country known for its beaches, rainforests, and mix of cultural influences.",
+        "synonyms": []
+      },
+      {
+        "word": "New Zealand",
+        "description": "An island country in the southwestern Pacific Ocean, known for its dramatic landscapes.",
+        "synonyms": [
+          "Aotearoa"
+        ]
+      },
+      {
+        "word": "Nigeria",
+        "description": "A country in West Africa on the Gulf of Guinea, the most populous country in Africa.",
+        "synonyms": []
+      },
+      {
+        "word": "Pakistan",
+        "description": "A country in South Asia, home to several ancient cultures, including the Indus Valley Civilization.",
+        "synonyms": []
+      },
+      {
+        "word": "Singapore",
+        "description": "A sovereign island city-state in maritime Southeast Asia, known for its cleanliness and modernity.",
+        "synonyms": []
+      },
+      {
+        "word": "Switzerland",
+        "description": "A mountainous Central European country, known for its ski resorts, hiking trails, and banking industry.",
+        "synonyms": []
+      },
+      {
+        "word": "United Kingdom",
+        "description": "An island nation in northwestern Europe, made up of England, Scotland, Wales and Northern Ireland.",
+        "synonyms": [
+          "UK",
+          "Britain"
+        ]
+      },
+      {
+        "word": "Italy",
+        "description": "A country in Southern Europe, renowned for its art, fashion, cuisine, and Roman ruins.",
+        "synonyms": []
+      },
+      {
+        "word": "The Dominican Republic",
+        "description": "A Caribbean nation that shares the island of Hispaniola with Haiti to the west.",
+        "synonyms": [
+          "DR"
+        ]
+      },
+      {
+        "word": "The Philippines",
+        "description": "An archipelagic country in Southeast Asia, consisting of about 7,641 islands.",
+        "synonyms": []
+      },
+      {
+        "word": "Denmark",
+        "description": "A Scandinavian country in Northern Europe, known for its high quality of life and design.",
+        "synonyms": []
+      }
+    ],
+    "languages": [
+      {
+        "word": "linguistics",
+        "description": "The scientific study of language and its structure.",
+        "synonyms": []
+      },
+      {
+        "word": "bilingual",
+        "description": "A person who is able to speak two languages fluently.",
+        "synonyms": []
+      },
+      {
+        "word": "trilingual",
+        "description": "A person who is able to speak three languages fluently.",
+        "synonyms": []
+      },
+      {
+        "word": "polyglot",
+        "description": "A person who knows and is able to use several languages.",
+        "synonyms": [
+          "multilingual"
+        ]
+      },
+      {
+        "word": "Portuguese",
+        "description": "The official language of Portugal and Brazil.",
+        "synonyms": []
+      },
+      {
+        "word": "Mandarin",
+        "description": "The standard and official form of the Chinese language.",
+        "synonyms": [
+          "Standard Chinese"
+        ]
+      },
+      {
+        "word": "Bengali",
+        "description": "The official language of Bangladesh, also known as Bangla.",
+        "synonyms": [
+          "Bangla"
+        ]
+      },
+      {
+        "word": "Chinese",
+        "description": "The group of languages used by the people of China.",
+        "synonyms": []
+      },
+      {
+        "word": "Hindi",
+        "description": "An official language of India, widely spoken in the northern part of the country.",
+        "synonyms": []
+      },
+      {
+        "word": "Russian",
+        "description": "The official language of Russia.",
+        "synonyms": []
+      },
+      {
+        "word": "Japanese",
+        "description": "The official language of Japan.",
+        "synonyms": []
+      },
+      {
+        "word": "German",
+        "description": "The official language of Germany, Austria, and Liechtenstein.",
+        "synonyms": []
+      },
+      {
+        "word": "Punjabi",
+        "description": "The language of the Punjab region in India and Pakistan.",
+        "synonyms": []
+      },
+      {
+        "word": "Thai",
+        "description": "The official language of Thailand.",
+        "synonyms": []
+      },
+      {
+        "word": "Persian",
+        "description": "The official language of Iran, also known as Farsi.",
+        "synonyms": [
+          "Farsi"
+        ]
+      },
+      {
+        "word": "Filipino",
+        "description": "The national language of the Philippines.",
+        "synonyms": [
+          "Tagalog"
+        ]
+      },
+      {
+        "word": "French",
+        "description": "The official language of France and many other countries including Canada and Switzerland.",
+        "synonyms": []
+      },
+      {
+        "word": "Italian",
+        "description": "The official language of Italy.",
+        "synonyms": []
+      },
+      {
+        "word": "Greek",
+        "description": "The official language of Greece and Cyprus.",
+        "synonyms": []
+      }
+    ],
+    "homes": [
+      {
+        "word": "semi-detached house",
+        "description": "A house that is joined to another house on only one side.",
+        "synonyms": [
+          "semi-detached"
+        ]
+      },
+      {
+        "word": "duplex",
+        "description": "A residential building divided into two separate homes with a shared wall.",
+        "synonyms": [
+          "two-family house"
+        ]
+      },
+      {
+        "word": "terraced house",
+        "description": "A house built as part of a continuous row in a uniform style, sharing side walls.",
+        "synonyms": [
+          "row house",
+          "town house"
+        ]
+      },
+      {
+        "word": "town house",
+        "description": "A tall, narrow house with multiple floors, typically in a row in a city.",
+        "synonyms": [
+          "terraced house",
+          "row house"
+        ]
+      },
+      {
+        "word": "row house",
+        "description": "One of a series of houses situated side by side and sharing common walls.",
+        "synonyms": [
+          "terraced house",
+          "town house"
+        ]
+      },
+      {
+        "word": "bungalow",
+        "description": "A house with only one storey (level), sometimes with rooms in the roof space.",
+        "synonyms": [
+          "single-story house",
+          "ranch house"
+        ]
+      },
+      {
+        "word": "thatched cottage",
+        "description": "A small, traditional house, typically in the countryside, with a roof made of straw or reeds.",
+        "synonyms": []
+      },
+      {
+        "word": "mobile home",
+        "description": "A large house-like trailer that is used as a permanent home.",
+        "synonyms": [
+          "trailer home",
+          "manufactured home"
+        ]
+      },
+      {
+        "word": "houseboat",
+        "description": "A boat that is or can be used as a residence.",
+        "synonyms": []
+      },
+      {
+        "word": "block of flats",
+        "description": "A large building containing multiple apartments (common term in the UK).",
+        "synonyms": [
+          "apartment building",
+          "apartment block"
+        ]
+      },
+      {
+        "word": "apartment building",
+        "description": "A large building containing multiple apartments (common term in the US).",
+        "synonyms": [
+          "block of flats",
+          "apartment block"
+        ]
+      },
+      {
+        "word": "condominium",
+        "description": "An apartment building where each unit is individually owned.",
+        "synonyms": [
+          "condo"
+        ]
+      },
+      {
+        "word": "chimney",
+        "description": "A vertical pipe that carries smoke from a fireplace out of a building.",
+        "synonyms": [
+          "smokestack",
+          "flue"
+        ]
+      },
+      {
+        "word": "bedroom",
+        "description": "A room used for sleeping.",
+        "synonyms": []
+      },
+      {
+        "word": "basement",
+        "description": "The floor of a building that is partly or entirely below ground level.",
+        "synonyms": [
+          "cellar"
+        ]
+      },
+      {
+        "word": "landlord",
+        "description": "A person who rents out property to a tenant.",
+        "synonyms": [
+          "owner",
+          "proprietor",
+          "lessor"
+        ]
+      },
+      {
+        "word": "tenant",
+        "description": "A person who pays rent to occupy a property owned by someone else.",
+        "synonyms": [
+          "renter",
+          "occupant",
+          "lessee"
+        ]
+      },
+      {
+        "word": "rent",
+        "description": "A regular payment made by a tenant to a landlord for the use of a property.",
+        "synonyms": [
+          "lease payment"
+        ]
+      },
+      {
+        "word": "lease",
+        "description": "A legal contract for renting property for a specified period.",
+        "synonyms": [
+          "rental agreement"
+        ]
+      },
+      {
+        "word": "neighborhood",
+        "description": "A district or community within a town or city.",
+        "synonyms": [
+          "area",
+          "district",
+          "locality"
+        ]
+      },
+      {
+        "word": "suburb",
+        "description": "A residential area on the outskirts of a city.",
+        "synonyms": [
+          "outskirts"
+        ]
+      },
+      {
+        "word": "sofa",
+        "description": "A long upholstered seat with a back and arms for two or more people.",
+        "synonyms": [
+          "couch",
+          "settee"
+        ]
+      },
+      {
+        "word": "coffee table",
+        "description": "A low table placed in front of a sofa.",
+        "synonyms": []
+      },
+      {
+        "word": "dormitory",
+        "description": "A large bedroom for many people, such as in a school or university.",
+        "synonyms": [
+          "dorm",
+          "residence hall"
+        ]
+      },
+      {
+        "word": "storey",
+        "description": "A level of a building; a floor.",
+        "synonyms": [
+          "floor",
+          "level"
+        ]
+      },
+      {
+        "word": "kitchen",
+        "description": "A room equipped for preparing and cooking food.",
+        "synonyms": []
+      },
+      {
+        "word": "refrigerator",
+        "description": "An appliance that uses cooling technology to preserve food.",
+        "synonyms": [
+          "fridge"
+        ]
+      },
+      {
+        "word": "microwave",
+        "description": "An electric oven that heats food using electromagnetic radiation.",
+        "synonyms": []
+      },
+      {
+        "word": "ground floor",
+        "description": "The floor of a building at or nearest to ground level.",
+        "synonyms": [
+          "first floor"
+        ]
+      },
+      {
+        "word": "oven",
+        "description": "An enclosed compartment in a cooker used for baking or roasting.",
+        "synonyms": []
+      },
+      {
+        "word": "hallway",
+        "description": "A corridor or passage inside a building.",
+        "synonyms": [
+          "hall",
+          "corridor",
+          "passage"
+        ]
+      },
+      {
+        "word": "insurance",
+        "description": "A policy that provides financial protection against specified loss or damage.",
+        "synonyms": [
+          "protection",
+          "cover"
+        ]
+      }
+    ],
+    "architecture_and_buildings": [
+      {
+        "word": "dome",
+        "description": "A rounded vault forming the roof of a building, typically with a circular base.",
+        "synonyms": [
+          "cupola",
+          "vault"
+        ]
+      },
+      {
+        "word": "palace",
+        "description": "The official residence of a sovereign, president, or other exalted personage.",
+        "synonyms": [
+          "mansion",
+          "chateau",
+          "castle"
+        ]
+      },
+      {
+        "word": "fort",
+        "description": "A fortified building or strategic position.",
+        "synonyms": [
+          "fortress",
+          "citadel",
+          "stronghold"
+        ]
+      },
+      {
+        "word": "castle",
+        "description": "A large building, typically of the medieval period, fortified against attack.",
+        "synonyms": [
+          "fortress",
+          "palace"
+        ]
+      },
+      {
+        "word": "glasshouse",
+        "description": "A building with glass sides and a glass roof for growing plants.",
+        "synonyms": [
+          "greenhouse",
+          "conservatory"
+        ]
+      },
+      {
+        "word": "pyramid",
+        "description": "A monumental structure with a square or triangular base and sloping sides that meet in a point at the top, especially one built of stone in ancient Egypt.",
+        "synonyms": []
+      },
+      {
+        "word": "log cabin",
+        "description": "A small house made from logs.",
+        "synonyms": [
+          "hut",
+          "shack"
+        ]
+      },
+      {
+        "word": "lighthouse",
+        "description": "A tower containing a strong light to guide or warn ships at sea.",
+        "synonyms": [
+          "beacon"
+        ]
+      },
+      {
+        "word": "hut",
+        "description": "A small, simple single-story building or shelter.",
+        "synonyms": [
+          "shack",
+          "cabin",
+          "shed"
+        ]
+      },
+      {
+        "word": "skyscraper",
+        "description": "A very tall building with many stories.",
+        "synonyms": [
+          "tower",
+          "high-rise"
+        ]
+      },
+      {
+        "word": "sculpture",
+        "description": "The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood.",
+        "synonyms": [
+          "statue",
+          "carving",
+          "monument"
+        ]
+      }
+    ],
+    "in_the_city": [
+      {
+        "word": "cities",
+        "description": "Large and important towns where many people live and work.",
+        "synonyms": [
+          "metropolises",
+          "urban centers"
+        ]
+      },
+      {
+        "word": "street",
+        "description": "A public road in a city, town, or village, typically with houses and buildings on one or both sides.",
+        "synonyms": [
+          "road",
+          "thoroughfare"
+        ]
+      },
+      {
+        "word": "lane",
+        "description": "A narrow road, especially in a rural area, or a division of a road marked for a single line of vehicles.",
+        "synonyms": [
+          "alley",
+          "pathway"
+        ]
+      },
+      {
+        "word": "city centre",
+        "description": "The central part or main business and commercial area of a city.",
+        "synonyms": [
+          "downtown",
+          "central business district"
+        ]
+      },
+      {
+        "word": "central station",
+        "description": "The main railway station in a city or large town.",
+        "synonyms": [
+          "main station",
+          "terminus"
+        ]
+      },
+      {
+        "word": "car park",
+        "description": "An area or building where cars or other vehicles may be left temporarily.",
+        "synonyms": [
+          "parking lot",
+          "parking garage"
+        ]
+      },
+      {
+        "word": "department store",
+        "description": "A large shop stocking many varieties of goods in different departments.",
+        "synonyms": [
+          "megastore",
+          "emporium"
+        ]
+      },
+      {
+        "word": "bridge",
+        "description": "A structure carrying a road or railway across a river, valley, or another road.",
+        "synonyms": [
+          "overpass",
+          "viaduct",
+          "span"
+        ]
+      },
+      {
+        "word": "temple",
+        "description": "A building devoted to the worship of a god, gods, or other objects of religious reverence.",
+        "synonyms": [
+          "shrine",
+          "sanctuary",
+          "place of worship"
+        ]
+      },
+      {
+        "word": "embassy",
+        "description": "The official residence or offices of an ambassador in a foreign country.",
+        "synonyms": [
+          "consulate",
+          "legation"
+        ]
+      },
+      {
+        "word": "road system",
+        "description": "The network of all roads in a particular area.",
+        "synonyms": [
+          "road network",
+          "highway system"
+        ]
+      },
+      {
+        "word": "hospital",
+        "description": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+        "synonyms": [
+          "clinic",
+          "infirmary",
+          "medical center"
+        ]
+      },
+      {
+        "word": "garden",
+        "description": "A public park or a large, well-kept area of land used for recreation.",
+        "synonyms": [
+          "park",
+          "public garden",
+          "grounds"
+        ]
+      },
+      {
+        "word": "avenue",
+        "description": "A broad road in a town or city, typically having trees at regular intervals along its sides.",
+        "synonyms": [
+          "boulevard",
+          "promenade",
+          "drive"
+        ]
+      }
+    ],
+    "workplaces": [
+      {
+        "word": "clinic",
+        "description": "A place or hospital department where outpatients are given medical treatment or advice.",
+        "synonyms": [
+          "health center",
+          "medical center"
+        ]
+      },
+      {
+        "word": "dentist",
+        "description": "A person qualified to treat the diseases and conditions that affect the teeth and gums.",
+        "synonyms": [
+          "dental surgeon"
+        ]
+      },
+      {
+        "word": "reception",
+        "description": "The area in an office or hotel where visitors arrive and are greeted.",
+        "synonyms": [
+          "front desk",
+          "welcome area"
+        ]
+      },
+      {
+        "word": "appointment",
+        "description": "An arrangement to meet someone at a particular time and place.",
+        "synonyms": [
+          "meeting",
+          "booking",
+          "engagement"
+        ]
+      },
+      {
+        "word": "staff selection",
+        "description": "The process of choosing the right people to work for an organization.",
+        "synonyms": [
+          "recruitment",
+          "hiring"
+        ]
+      },
+      {
+        "word": "colleague",
+        "description": "A person with whom one works in a profession or business.",
+        "synonyms": [
+          "co-worker",
+          "associate",
+          "workmate"
+        ]
+      },
+      {
+        "word": "workshop",
+        "description": "A meeting for discussion or practical work on a particular subject.",
+        "synonyms": [
+          "seminar",
+          "training session"
+        ]
+      },
+      {
+        "word": "showroom",
+        "description": "A room used to display goods for sale, such as cars or furniture.",
+        "synonyms": [
+          "display room",
+          "exhibition space"
+        ]
+      },
+      {
+        "word": "information desk",
+        "description": "A place in a public building, such as a library or airport, where you can get information.",
+        "synonyms": [
+          "help desk",
+          "inquiry desk"
+        ]
+      },
+      {
+        "word": "employer",
+        "description": "A person or organization that pays people to work for them.",
+        "synonyms": [
+          "boss",
+          "company",
+          "firm"
+        ]
+      },
+      {
+        "word": "employment",
+        "description": "The state of having paid work.",
+        "synonyms": [
+          "job",
+          "work",
+          "occupation"
+        ]
+      },
+      {
+        "word": "unemployed",
+        "description": "Without a paid job but available to work.",
+        "synonyms": [
+          "jobless",
+          "out of work"
+        ]
+      },
+      {
+        "word": "technical cooperation",
+        "description": "Collaboration between countries or organizations in the field of technology and skills.",
+        "synonyms": [
+          "technical partnership"
+        ]
+      },
+      {
+        "word": "team leaders",
+        "description": "People who provide guidance and instruction to a working group.",
+        "synonyms": [
+          "supervisors",
+          "managers"
+        ]
+      },
+      {
+        "word": "stress",
+        "description": "A state of mental or emotional strain resulting from demanding circumstances.",
+        "synonyms": [
+          "pressure",
+          "tension",
+          "anxiety"
+        ]
+      },
+      {
+        "word": "ability",
+        "description": "The power or capacity to do something.",
+        "synonyms": [
+          "skill",
+          "capability",
+          "talent"
+        ]
+      },
+      {
+        "word": "vision",
+        "description": "The ability to think about or plan the future with imagination and wisdom.",
+        "synonyms": [
+          "foresight",
+          "insight",
+          "imagination"
+        ]
+      },
+      {
+        "word": "confidence",
+        "description": "The feeling or belief that one can rely on someone or something; firm trust.",
+        "synonyms": [
+          "self-assurance",
+          "certainty",
+          "poise"
+        ]
+      },
+      {
+        "word": "employee",
+        "description": "A person who works for another person or a company for wages or a salary.",
+        "synonyms": [
+          "worker",
+          "staff member"
+        ]
+      },
+      {
+        "word": "internship",
+        "description": "A temporary position with an emphasis on on-the-job training.",
+        "synonyms": [
+          "traineeship",
+          "apprenticeship",
+          "work placement"
+        ]
+      }
+    ],
+    "rating_and_qualities": [
+      {
+        "word": "reasonable",
+        "description": "Fair and sensible; acceptable or not too expensive.",
+        "synonyms": [
+          "fair",
+          "acceptable",
+          "sensible"
+        ]
+      },
+      {
+        "word": "satisfactory",
+        "description": "Fulfilling expectations or needs; acceptable but not outstanding.",
+        "synonyms": [
+          "adequate",
+          "sufficient",
+          "acceptable"
+        ]
+      },
+      {
+        "word": "dangerous",
+        "description": "Able or likely to cause harm, injury, or risk.",
+        "synonyms": [
+          "hazardous",
+          "unsafe",
+          "risky"
+        ]
+      },
+      {
+        "word": "safe",
+        "description": "Protected from or not exposed to danger or risk.",
+        "synonyms": [
+          "secure",
+          "harmless",
+          "protected"
+        ]
+      },
+      {
+        "word": "strongly recommended",
+        "description": "Advised or suggested with great confidence.",
+        "synonyms": [
+          "highly suggested",
+          "endorsed"
+        ]
+      },
+      {
+        "word": "poor quality",
+        "description": "Of a low or inferior standard; not well made.",
+        "synonyms": [
+          "substandard",
+          "inferior",
+          "shoddy"
+        ]
+      },
+      {
+        "word": "satisfied",
+        "description": "Feeling content or pleased with a result or situation.",
+        "synonyms": [
+          "content",
+          "pleased",
+          "happy"
+        ]
+      },
+      {
+        "word": "disappointed",
+        "description": "Sad or displeased because hopes or expectations were not fulfilled.",
+        "synonyms": [
+          "let down",
+          "unhappy",
+          "dissatisfied"
+        ]
+      },
+      {
+        "word": "efficient",
+        "description": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "synonyms": [
+          "effective",
+          "productive",
+          "streamlined"
+        ]
+      },
+      {
+        "word": "luxurious",
+        "description": "Extremely comfortable, elegant, or enjoyable, often at great expense.",
+        "synonyms": [
+          "opulent",
+          "lavish",
+          "plush"
+        ]
+      },
+      {
+        "word": "colored",
+        "description": "Having a color or colors, as opposed to being black, white, or neutral.",
+        "synonyms": [
+          "hued",
+          "tinted"
+        ]
+      },
+      {
+        "word": "spotted",
+        "description": "Marked or decorated with round dots or spots.",
+        "synonyms": [
+          "dotted",
+          "flecked",
+          "speckled"
+        ]
+      },
+      {
+        "word": "striped",
+        "description": "Marked with long, narrow bands of a different color or texture.",
+        "synonyms": [
+          "banded",
+          "lined"
+        ]
+      },
+      {
+        "word": "expensive",
+        "description": "Costing a lot of money.",
+        "synonyms": [
+          "costly",
+          "pricey",
+          "high-priced"
+        ]
+      },
+      {
+        "word": "cheap",
+        "description": "Low in price; inexpensive.",
+        "synonyms": [
+          "inexpensive",
+          "affordable",
+          "low-cost"
+        ]
+      }
+    ],
+    "touring": [
+      {
+        "word": "guided tour",
+        "description": "A tour of a place or area with an expert leader or guide.",
+        "synonyms": [
+          "escorted tour"
+        ]
+      },
+      {
+        "word": "ticket office",
+        "description": "A place where tickets for public transport or entertainment are sold.",
+        "synonyms": [
+          "box office"
+        ]
+      },
+      {
+        "word": "souvenir",
+        "description": "An item kept as a reminder of a person, place, or event.",
+        "synonyms": [
+          "memento",
+          "keepsake",
+          "reminder"
+        ]
+      },
+      {
+        "word": "trip",
+        "description": "A journey or excursion, especially for pleasure.",
+        "synonyms": [
+          "journey",
+          "excursion",
+          "outing"
+        ]
+      },
+      {
+        "word": "guest",
+        "description": "A person who is staying at a hotel or visiting another person or place.",
+        "synonyms": [
+          "visitor",
+          "patron",
+          "client"
+        ]
+      },
+      {
+        "word": "reservation",
+        "description": "An arrangement to have something (like a room, table, or seat) held for your use.",
+        "synonyms": [
+          "booking"
+        ]
+      },
+      {
+        "word": "view",
+        "description": "The scenery or prospect that can be seen from a particular place.",
+        "synonyms": [
+          "scenery",
+          "prospect",
+          "vista"
+        ]
+      },
+      {
+        "word": "culture",
+        "description": "The customs, arts, and achievements of a particular nation, people, or group.",
+        "synonyms": [
+          "customs",
+          "traditions",
+          "way of life"
+        ]
+      },
+      {
+        "word": "memorable",
+        "description": "Worth remembering or easily remembered because of being special or unusual.",
+        "synonyms": [
+          "unforgettable",
+          "noteworthy",
+          "remarkable"
+        ]
+      },
+      {
+        "word": "single room",
+        "description": "A hotel room intended for one person to stay in.",
+        "synonyms": []
+      },
+      {
+        "word": "double room",
+        "description": "A hotel room intended for two people, often with one large bed.",
+        "synonyms": []
+      },
+      {
+        "word": "picnic",
+        "description": "An occasion when a packed meal is eaten outdoors, especially during an outing.",
+        "synonyms": [
+          "outdoor meal"
+        ]
+      },
+      {
+        "word": "tourist attraction",
+        "description": "A place of interest that tourists visit for its natural or cultural value.",
+        "synonyms": [
+          "landmark",
+          "sight",
+          "point of interest"
+        ]
+      },
+      {
+        "word": "hostel",
+        "description": "An establishment providing inexpensive accommodation, often in shared dormitories.",
+        "synonyms": [
+          "backpacker's",
+          "youth hostel"
+        ]
+      },
+      {
+        "word": "suite",
+        "description": "A set of connected rooms in a hotel, used as a single unit of accommodation.",
+        "synonyms": [
+          "hotel suite"
+        ]
+      },
+      {
+        "word": "aquarium",
+        "description": "A building containing tanks of live fish and other aquatic animals.",
+        "synonyms": [
+          "marine park",
+          "sea life centre"
+        ]
+      }
+    ],
+    "verbs": [
+      {
+        "word": "train",
+        "description": "To teach a particular skill or type of behavior through practice and instruction.",
+        "synonyms": [
+          "coach",
+          "instruct",
+          "teach"
+        ]
+      },
+      {
+        "word": "develop",
+        "description": "To grow or cause to grow and become more mature, advanced, or elaborate.",
+        "synonyms": [
+          "evolve",
+          "expand",
+          "grow"
+        ]
+      },
+      {
+        "word": "collect",
+        "description": "To bring or gather together things, typically as a hobby or for study.",
+        "synonyms": [
+          "gather",
+          "amass",
+          "accumulate"
+        ]
+      },
+      {
+        "word": "supervise",
+        "description": "To observe and direct the work of a person or the execution of a task.",
+        "synonyms": [
+          "oversee",
+          "manage",
+          "direct"
+        ]
+      },
+      {
+        "word": "mark",
+        "description": "To make a visible sign on something; or to assess a piece of work.",
+        "synonyms": [
+          "grade",
+          "assess",
+          "label"
+        ]
+      },
+      {
+        "word": "edit",
+        "description": "To prepare written material for publication by correcting or modifying it.",
+        "synonyms": [
+          "correct",
+          "revise",
+          "amend"
+        ]
+      },
+      {
+        "word": "revise",
+        "description": "To re-examine and make alterations or corrections to something.",
+        "synonyms": [
+          "reconsider",
+          "modify",
+          "amend"
+        ]
+      },
+      {
+        "word": "exhibit",
+        "description": "To publicly display a work of art or item of interest in a gallery or museum.",
+        "synonyms": [
+          "display",
+          "show",
+          "present"
+        ]
+      },
+      {
+        "word": "donate",
+        "description": "To give money or goods for a good cause, for example to a charity.",
+        "synonyms": [
+          "give",
+          "contribute",
+          "bestow"
+        ]
+      },
+      {
+        "word": "surpass",
+        "description": "To exceed or be greater than something else.",
+        "synonyms": [
+          "exceed",
+          "outdo",
+          "transcend"
+        ]
+      },
+      {
+        "word": "register",
+        "description": "To enter or record on an official list or directory.",
+        "synonyms": [
+          "enroll",
+          "sign up",
+          "record"
+        ]
+      },
+      {
+        "word": "support",
+        "description": "To give assistance to, especially financially; to enable to function or act.",
+        "synonyms": [
+          "assist",
+          "back",
+          "uphold"
+        ]
+      },
+      {
+        "word": "hunt",
+        "description": "To pursue and kill a wild animal for sport or food.",
+        "synonyms": [
+          "chase",
+          "pursue",
+          "seek"
+        ]
+      },
+      {
+        "word": "persuade",
+        "description": "To cause someone to do something through reasoning or argument.",
+        "synonyms": [
+          "convince",
+          "influence",
+          "coax"
+        ]
+      },
+      {
+        "word": "concentrate",
+        "description": "To focus all of one's attention on a particular object or activity.",
+        "synonyms": [
+          "focus",
+          "center",
+          "direct"
+        ]
+      },
+      {
+        "word": "discuss",
+        "description": "To talk about something with another person or a group of people.",
+        "synonyms": [
+          "debate",
+          "confer",
+          "talk over"
+        ]
+      },
+      {
+        "word": "suggest",
+        "description": "To put forward for consideration.",
+        "synonyms": [
+          "propose",
+          "recommend",
+          "advise"
+        ]
+      },
+      {
+        "word": "arrange",
+        "description": "To put things in a neat, attractive, or required order.",
+        "synonyms": [
+          "organize",
+          "order",
+          "plan"
+        ]
+      },
+      {
+        "word": "borrow",
+        "description": "To take and use something belonging to someone else with the intention of returning it.",
+        "synonyms": [
+          "take on loan",
+          "use"
+        ]
+      },
+      {
+        "word": "immigrate",
+        "description": "To come to live permanently in a foreign country.",
+        "synonyms": [
+          "migrate",
+          "relocate",
+          "settle"
+        ]
+      },
+      {
+        "word": "review",
+        "description": "To examine or assess something formally with the possibility of instituting change.",
+        "synonyms": [
+          "assess",
+          "evaluate",
+          "re-examine"
+        ]
+      },
+      {
+        "word": "learn",
+        "description": "To gain knowledge or skill in something by study, experience, or being taught.",
+        "synonyms": [
+          "study",
+          "master",
+          "acquire"
+        ]
+      },
+      {
+        "word": "touch",
+        "description": "To come into or be in physical contact with.",
+        "synonyms": [
+          "contact",
+          "feel",
+          "handle"
+        ]
+      }
+    ],
+    "adjectives": [
+      {
+        "word": "energetic",
+        "description": "Showing or involving great activity or vitality.",
+        "synonyms": [
+          "active",
+          "lively",
+          "dynamic"
+        ]
+      },
+      {
+        "word": "social",
+        "description": "Relating to society or its organization; needing companionship.",
+        "synonyms": [
+          "gregarious",
+          "sociable",
+          "community"
+        ]
+      },
+      {
+        "word": "ancient",
+        "description": "Belonging to the very distant past and no longer in existence.",
+        "synonyms": [
+          "prehistoric",
+          "antique",
+          "old"
+        ]
+      },
+      {
+        "word": "necessary",
+        "description": "Required to be done, achieved, or present; needed.",
+        "synonyms": [
+          "essential",
+          "vital",
+          "required"
+        ]
+      },
+      {
+        "word": "fantastic",
+        "description": "Extraordinarily good or attractive.",
+        "synonyms": [
+          "wonderful",
+          "superb",
+          "excellent"
+        ]
+      },
+      {
+        "word": "exciting",
+        "description": "Causing great enthusiasm and eagerness.",
+        "synonyms": [
+          "thrilling",
+          "stimulating",
+          "exhilarating"
+        ]
+      },
+      {
+        "word": "fabulous",
+        "description": "Extraordinary, especially in being attractive or enjoyable.",
+        "synonyms": [
+          "amazing",
+          "marvelous",
+          "wonderful"
+        ]
+      },
+      {
+        "word": "dull",
+        "description": "Lacking interest or excitement; boring.",
+        "synonyms": [
+          "boring",
+          "uninteresting",
+          "tedious"
+        ]
+      },
+      {
+        "word": "comfortable",
+        "description": "Providing physical ease and relaxation.",
+        "synonyms": [
+          "cozy",
+          "pleasant",
+          "snug"
+        ]
+      },
+      {
+        "word": "convenient",
+        "description": "Fitting in well with a person's needs, activities, and plans.",
+        "synonyms": [
+          "handy",
+          "suitable",
+          "practical"
+        ]
+      },
+      {
+        "word": "suitable",
+        "description": "Right or appropriate for a particular person, purpose, or situation.",
+        "synonyms": [
+          "appropriate",
+          "fitting",
+          "proper"
+        ]
+      },
+      {
+        "word": "affordable",
+        "description": "Inexpensive; reasonably priced.",
+        "synonyms": [
+          "cheap",
+          "low-cost",
+          "economical"
+        ]
+      },
+      {
+        "word": "voluntary",
+        "description": "Done, given, or acting of one's own free will.",
+        "synonyms": [
+          "optional",
+          "unpaid",
+          "willing"
+        ]
+      },
+      {
+        "word": "mandatory",
+        "description": "Required by law or rules; compulsory.",
+        "synonyms": [
+          "compulsory",
+          "obligatory",
+          "required"
+        ]
+      },
+      {
+        "word": "compulsory",
+        "description": "Required by law or a rule; obligatory.",
+        "synonyms": [
+          "mandatory",
+          "obligatory",
+          "required"
+        ]
+      },
+      {
+        "word": "temporary",
+        "description": "Lasting for only a limited period of time; not permanent.",
+        "synonyms": [
+          "provisional",
+          "short-term",
+          "interim"
+        ]
+      },
+      {
+        "word": "permanent",
+        "description": "Lasting or intended to last or remain unchanged indefinitely.",
+        "synonyms": [
+          "lasting",
+          "enduring",
+          "everlasting"
+        ]
+      },
+      {
+        "word": "immense",
+        "description": "Extremely large or great, especially in scale or degree.",
+        "synonyms": [
+          "huge",
+          "vast",
+          "enormous"
+        ]
+      },
+      {
+        "word": "vast",
+        "description": "Of very great extent or quantity; immense.",
+        "synonyms": [
+          "huge",
+          "enormous",
+          "immense"
+        ]
+      },
+      {
+        "word": "salty",
+        "description": "Tasting of, containing, or preserved with salt.",
+        "synonyms": [
+          "saline",
+          "briny"
+        ]
+      },
+      {
+        "word": "extinct",
+        "description": "No longer in existence; having no living members.",
+        "synonyms": [
+          "vanished",
+          "defunct",
+          "dead"
+        ]
+      },
+      {
+        "word": "vulnerable",
+        "description": "Susceptible to physical or emotional attack or harm.",
+        "synonyms": [
+          "exposed",
+          "unprotected",
+          "defenseless"
+        ]
+      },
+      {
+        "word": "pessimistic",
+        "description": "Tending to see the worst aspect of things or believe that the worst will happen.",
+        "synonyms": [
+          "negative",
+          "gloomy",
+          "cynical"
+        ]
+      },
+      {
+        "word": "optimistic",
+        "description": "Hopeful and confident about the future.",
+        "synonyms": [
+          "positive",
+          "hopeful",
+          "buoyant"
+        ]
+      },
+      {
+        "word": "realistic",
+        "description": "Having or showing a sensible and practical idea of what can be achieved.",
+        "synonyms": [
+          "practical",
+          "pragmatic",
+          "sensible"
+        ]
+      },
+      {
+        "word": "practical",
+        "description": "Concerned with the actual doing or use of something rather than with theory and ideas.",
+        "synonyms": [
+          "realistic",
+          "sensible",
+          "down-to-earth"
+        ]
+      },
+      {
+        "word": "knowledgeable",
+        "description": "Intelligent and well informed.",
+        "synonyms": [
+          "well-informed",
+          "educated",
+          "learned"
+        ]
+      },
+      {
+        "word": "flexible",
+        "description": "Able to be easily modified to respond to altered circumstances; adaptable.",
+        "synonyms": [
+          "adaptable",
+          "versatile",
+          "adjustable"
+        ]
+      },
+      {
+        "word": "confident",
+        "description": "Feeling or showing certainty about something; self-assured.",
+        "synonyms": [
+          "self-assured",
+          "certain",
+          "positive"
+        ]
+      },
+      {
+        "word": "western",
+        "description": "Living in or originating from the west, particularly Europe or the Americas.",
+        "synonyms": [
+          "occidental"
+        ]
+      },
+      {
+        "word": "intensive",
+        "description": "Concentrated on a single area or subject; very thorough or vigorous.",
+        "synonyms": [
+          "thorough",
+          "concentrated",
+          "rigorous"
+        ]
+      },
+      {
+        "word": "tranquil",
+        "description": "Free from disturbance; calm.",
+        "synonyms": [
+          "peaceful",
+          "calm",
+          "serene"
+        ]
+      },
+      {
+        "word": "spectacular",
+        "description": "Beautiful in a dramatic and eye-catching way.",
+        "synonyms": [
+          "stunning",
+          "impressive",
+          "dazzling"
+        ]
+      },
+      {
+        "word": "intact",
+        "description": "Not damaged or impaired in any way; complete.",
+        "synonyms": [
+          "unharmed",
+          "unbroken",
+          "whole"
+        ]
+      },
+      {
+        "word": "various",
+        "description": "Different from one another; of different kinds or sorts.",
+        "synonyms": [
+          "diverse",
+          "different",
+          "assorted"
+        ]
+      }
+    ],
+    "hobbies": [
+      {
+        "word": "orienteering",
+        "description": "A sport where participants navigate between points in unfamiliar terrain using a map and compass.",
+        "synonyms": [
+          "map-reading sport"
+        ]
+      },
+      {
+        "word": "caving",
+        "description": "The recreational pastime of exploring wild cave systems.",
+        "synonyms": [
+          "spelunking",
+          "potholing"
+        ]
+      },
+      {
+        "word": "spelunking",
+        "description": "The hobby or practice of exploring caves, especially as a recreational activity.",
+        "synonyms": [
+          "caving",
+          "potholing"
+        ]
+      },
+      {
+        "word": "archery",
+        "description": "The sport or skill of shooting with a bow and arrows, especially at a target.",
+        "synonyms": [
+          "bowmanship"
+        ]
+      },
+      {
+        "word": "ice skating",
+        "description": "The activity of gliding over a surface of ice on skates.",
+        "synonyms": []
+      },
+      {
+        "word": "scuba-diving",
+        "description": "The sport of swimming underwater using self-contained underwater breathing apparatus.",
+        "synonyms": [
+          "underwater diving"
+        ]
+      },
+      {
+        "word": "snorkeling",
+        "description": "Swimming through water while equipped with a diving mask and a breathing tube (snorkel).",
+        "synonyms": [
+          "skin diving"
+        ]
+      },
+      {
+        "word": "skateboarding",
+        "description": "The sport of riding and performing tricks on a skateboard.",
+        "synonyms": []
+      },
+      {
+        "word": "bowls",
+        "description": "A sport where the objective is to roll biased balls so they stop close to a smaller ball.",
+        "synonyms": [
+          "lawn bowls"
+        ]
+      },
+      {
+        "word": "darts",
+        "description": "An indoor game where small pointed missiles are thrown at a circular target.",
+        "synonyms": []
+      },
+      {
+        "word": "golf",
+        "description": "A game played on an outdoor course, striking a small ball with clubs into a series of holes.",
+        "synonyms": []
+      },
+      {
+        "word": "billiards",
+        "description": "A game played with cues on a cloth-covered table, driving balls into pockets.",
+        "synonyms": [
+          "pool",
+          "snooker"
+        ]
+      },
+      {
+        "word": "photography",
+        "description": "The art or process of taking and processing photographs.",
+        "synonyms": [
+          "picture-taking"
+        ]
+      },
+      {
+        "word": "painting",
+        "description": "The practice of applying paint or pigment to a surface like a canvas to create an image.",
+        "synonyms": [
+          "art",
+          "illustration"
+        ]
+      },
+      {
+        "word": "pottery",
+        "description": "The craft of making pots, dishes, and other objects from clay.",
+        "synonyms": [
+          "ceramics",
+          "earthenware"
+        ]
+      },
+      {
+        "word": "woodcarving",
+        "description": "The art of shaping objects from wood by carving with a sharp tool.",
+        "synonyms": [
+          "whittling"
+        ]
+      },
+      {
+        "word": "gardening",
+        "description": "The activity of tending and cultivating a garden as a pastime.",
+        "synonyms": [
+          "horticulture"
+        ]
+      },
+      {
+        "word": "stamp collection",
+        "description": "The hobby of collecting postage stamps and related items.",
+        "synonyms": [
+          "philately"
+        ]
+      },
+      {
+        "word": "embroidery",
+        "description": "The craft of decorating fabric or other materials using a needle to apply thread or yarn.",
+        "synonyms": [
+          "needlework",
+          "needlepoint"
+        ]
+      },
+      {
+        "word": "climbing",
+        "description": "The sport or activity of ascending steep rock faces or mountains.",
+        "synonyms": [
+          "mountaineering",
+          "rock climbing"
+        ]
+      },
+      {
+        "word": "chess",
+        "description": "A board game of strategic skill for two players, played on a checkered board.",
+        "synonyms": []
+      },
+      {
+        "word": "parachute",
+        "description": "The activity of jumping from an aircraft using a large fabric canopy to descend slowly.",
+        "synonyms": [
+          "parachuting",
+          "skydiving"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "word": "cricket",
+        "description": "A bat-and-ball game played between two teams of eleven players on a circular field.",
+        "synonyms": []
+      },
+      {
+        "word": "baseball",
+        "description": "A bat-and-ball game played between two teams of nine players on a diamond-shaped field.",
+        "synonyms": []
+      },
+      {
+        "word": "basketball",
+        "description": "A game where two teams of five players try to score points by shooting a ball through a high hoop.",
+        "synonyms": [
+          "hoops"
+        ]
+      },
+      {
+        "word": "rugby",
+        "description": "A team game played with an oval ball that can be carried, passed, and kicked.",
+        "synonyms": []
+      },
+      {
+        "word": "soccer",
+        "description": "A team game where players kick a round ball into the opposing team's goal.",
+        "synonyms": [
+          "football"
+        ]
+      },
+      {
+        "word": "american football",
+        "description": "A team game played with an oval ball on a rectangular field with goalposts.",
+        "synonyms": [
+          "gridiron"
+        ]
+      },
+      {
+        "word": "hockey",
+        "description": "A team game played with curved sticks and a small hard ball or puck.",
+        "synonyms": []
+      },
+      {
+        "word": "swimming",
+        "description": "The sport of moving through water by using one's limbs.",
+        "synonyms": []
+      },
+      {
+        "word": "tennis",
+        "description": "A racket sport where players hit a ball over a net into an opponent's court.",
+        "synonyms": []
+      },
+      {
+        "word": "squash",
+        "description": "An indoor racket sport played by hitting a small rubber ball against a walled court.",
+        "synonyms": []
+      },
+      {
+        "word": "badminton",
+        "description": "A racket sport using a shuttlecock, which is hit back and forth over a high net.",
+        "synonyms": []
+      },
+      {
+        "word": "ping-pong",
+        "description": "An indoor game where players hit a lightweight ball back and forth across a table with a net.",
+        "synonyms": [
+          "table tennis"
+        ]
+      },
+      {
+        "word": "stadium",
+        "description": "A large venue with tiers of seats for spectators at sporting events.",
+        "synonyms": [
+          "arena"
+        ]
+      },
+      {
+        "word": "team",
+        "description": "A group of players forming one side in a competitive game.",
+        "synonyms": [
+          "squad",
+          "side"
+        ]
+      },
+      {
+        "word": "discus",
+        "description": "A track and field event in which an athlete throws a heavy circular plate.",
+        "synonyms": [
+          "discus throw"
+        ]
+      },
+      {
+        "word": "javelin",
+        "description": "A track and field event where a light spear is thrown for distance.",
+        "synonyms": [
+          "javelin throw"
+        ]
+      },
+      {
+        "word": "hammer throw",
+        "description": "A track and field event where a heavy metal ball on a wire is thrown for distance.",
+        "synonyms": []
+      },
+      {
+        "word": "high jump",
+        "description": "A track and field event in which competitors jump over a horizontal bar.",
+        "synonyms": []
+      },
+      {
+        "word": "horse racing",
+        "description": "The sport of racing horses, often with betting involved.",
+        "synonyms": []
+      },
+      {
+        "word": "show jumping",
+        "description": "The competitive sport of riding horses over a course of obstacles.",
+        "synonyms": []
+      },
+      {
+        "word": "polo",
+        "description": "A team sport played on horseback, where the objective is to score goals against an opposing team.",
+        "synonyms": []
+      },
+      {
+        "word": "cycling",
+        "description": "The sport or activity of riding a bicycle.",
+        "synonyms": [
+          "biking"
+        ]
+      },
+      {
+        "word": "gymnasium",
+        "description": "A large room or building equipped for physical exercise and sports.",
+        "synonyms": [
+          "gym",
+          "fitness center"
+        ]
+      },
+      {
+        "word": "athlete",
+        "description": "A person who is highly skilled in sports and physical exercise.",
+        "synonyms": [
+          "sportsperson",
+          "player"
+        ]
+      },
+      {
+        "word": "extreme sports",
+        "description": "Sports characterized by high speed and a high level of risk.",
+        "synonyms": [
+          "action sports"
+        ]
+      },
+      {
+        "word": "paragliding",
+        "description": "The sport of flying using a wide, rectangular, steerable parachute.",
+        "synonyms": []
+      },
+      {
+        "word": "skydiving",
+        "description": "The sport of jumping from an aircraft and falling for as long as safely possible before opening a parachute.",
+        "synonyms": [
+          "parachuting"
+        ]
+      },
+      {
+        "word": "abseiling",
+        "description": "The sport of descending a vertical surface, such as a cliff or wall, by a rope.",
+        "synonyms": [
+          "rappelling"
+        ]
+      },
+      {
+        "word": "snowboarding",
+        "description": "The sport of sliding down a snow-covered slope on a single board.",
+        "synonyms": []
+      },
+      {
+        "word": "bungee jumping",
+        "description": "The sport of leaping from a high place while secured by a long elastic cord.",
+        "synonyms": []
+      },
+      {
+        "word": "surfing",
+        "description": "The sport of riding on the forward-moving face of a wave, usually on a surfboard.",
+        "synonyms": []
+      },
+      {
+        "word": "windsurfing",
+        "description": "A water sport that combines elements of surfing and sailing on a sailboard.",
+        "synonyms": []
+      },
+      {
+        "word": "jet-skiing",
+        "description": "The sport of riding a small, self-propelled vehicle on water.",
+        "synonyms": []
+      },
+      {
+        "word": "white-water rafting",
+        "description": "The activity of navigating a river with rough, turbulent water in an inflatable raft.",
+        "synonyms": [
+          "rafting"
+        ]
+      },
+      {
+        "word": "kitesurfing",
+        "description": "A water sport where a person rides on a small surfboard, propelled across the water by a large kite.",
+        "synonyms": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "word": "mountain biking",
+        "description": "The sport of riding bicycles off-road, often over rough terrain.",
+        "synonyms": []
+      },
+      {
+        "word": "jogging",
+        "description": "Running at a steady, gentle pace as a form of exercise.",
+        "synonyms": [
+          "running"
+        ]
+      },
+      {
+        "word": "push-up",
+        "description": "An exercise in which a person raises and lowers their body with their arms while lying face down.",
+        "synonyms": [
+          "press-up"
+        ]
+      },
+      {
+        "word": "barbell",
+        "description": "A piece of exercise equipment consisting of a long bar with weights at each end.",
+        "synonyms": []
+      },
+      {
+        "word": "treadmill",
+        "description": "An exercise machine for walking or running on a continuously moving belt.",
+        "synonyms": []
+      },
+      {
+        "word": "judo",
+        "description": "A modern Japanese martial art and combat sport.",
+        "synonyms": []
+      },
+      {
+        "word": "recreation",
+        "description": "Activities done for enjoyment when one is not working.",
+        "synonyms": [
+          "leisure",
+          "pastime"
+        ]
+      },
+      {
+        "word": "snooker",
+        "description": "A cue sport played on a large table with 15 red balls and 6 balls of other colors.",
+        "synonyms": []
+      },
+      {
+        "word": "championship",
+        "description": "A competition to find the best player or team in a particular sport.",
+        "synonyms": [
+          "tournament",
+          "competition"
+        ]
+      },
+      {
+        "word": "canoeing",
+        "description": "The sport of paddling a light, narrow boat, especially for recreation or competition.",
+        "synonyms": []
+      },
+      {
+        "word": "refreshment",
+        "description": "A light snack or drink provided during a break in an event.",
+        "synonyms": [
+          "snacks",
+          "drinks"
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "word": "square",
+        "description": "A plane figure with four equal straight sides and four right angles.",
+        "synonyms": []
+      },
+      {
+        "word": "rectangular",
+        "description": "A four-sided flat shape with straight sides and four right angles.",
+        "synonyms": [
+          "oblong"
+        ]
+      },
+      {
+        "word": "triangular",
+        "description": "Shaped like a triangle; having three sides and three angles.",
+        "synonyms": []
+      },
+      {
+        "word": "polygon",
+        "description": "A plane figure with at least three straight sides and angles.",
+        "synonyms": []
+      },
+      {
+        "word": "oval",
+        "description": "Having a rounded and slightly elongated outline, like that of an egg.",
+        "synonyms": [
+          "egg-shaped",
+          "elliptical"
+        ]
+      },
+      {
+        "word": "spherical",
+        "description": "Shaped like a sphere; round like a ball.",
+        "synonyms": [
+          "round",
+          "globular"
+        ]
+      },
+      {
+        "word": "spiral",
+        "description": "A curve which winds outwards from a central point.",
+        "synonyms": [
+          "coil",
+          "helix",
+          "corkscrew"
+        ]
+      },
+      {
+        "word": "circular",
+        "description": "Having the form of a circle; round.",
+        "synonyms": [
+          "round",
+          "ring-shaped"
+        ]
+      },
+      {
+        "word": "curved",
+        "description": "Having a bend or turn from a straight line; not straight.",
+        "synonyms": [
+          "bent",
+          "arched"
+        ]
+      },
+      {
+        "word": "cylindrical",
+        "description": "Having the shape of a cylinder; straight sides and a circular cross-section.",
+        "synonyms": [
+          "tubular",
+          "rod-shaped"
+        ]
+      }
+    ],
+    "measurement": [
+      {
+        "word": "width",
+        "description": "The measurement or extent of something from side to side.",
+        "synonyms": [
+          "breadth"
+        ]
+      },
+      {
+        "word": "length",
+        "description": "The measurement of something from end to end.",
+        "synonyms": []
+      },
+      {
+        "word": "altitude",
+        "description": "The height of an object or point in relation to sea level or ground level.",
+        "synonyms": [
+          "height",
+          "elevation"
+        ]
+      },
+      {
+        "word": "imperial system",
+        "description": "A system of weights and measures originally developed in England (e.g., inches, pounds, gallons).",
+        "synonyms": []
+      },
+      {
+        "word": "metric system",
+        "description": "A decimal measuring system based on the meter, liter, and gram.",
+        "synonyms": [
+          "SI units"
+        ]
+      },
+      {
+        "word": "mass",
+        "description": "A measure of the amount of matter in an object.",
+        "synonyms": [
+          "weight"
+        ]
+      },
+      {
+        "word": "depth",
+        "description": "The distance from the top or surface down to the bottom of something.",
+        "synonyms": []
+      },
+      {
+        "word": "breadth",
+        "description": "The distance or measurement from side to side of something; another word for width.",
+        "synonyms": [
+          "width",
+          "span"
+        ]
+      },
+      {
+        "word": "height",
+        "description": "The measurement of someone or something from base to top.",
+        "synonyms": [
+          "altitude",
+          "stature"
+        ]
+      },
+      {
+        "word": "three dimensions",
+        "description": "The property of space that has length, width, and depth.",
+        "synonyms": [
+          "3D"
+        ]
+      },
+      {
+        "word": "frequency",
+        "description": "The rate at which something occurs or is repeated over a particular period of time.",
+        "synonyms": [
+          "rate",
+          "occurrence"
+        ]
+      }
+    ],
+    "transportations": [
+      {
+        "word": "cargo plane",
+        "description": "An aircraft designed specifically to carry freight rather than passengers.",
+        "synonyms": [
+          "freighter",
+          "transport aircraft"
+        ]
+      },
+      {
+        "word": "shipment",
+        "description": "The action of transporting goods, or the goods being transported.",
+        "synonyms": [
+          "consignment",
+          "delivery",
+          "freight"
+        ]
+      },
+      {
+        "word": "container ship",
+        "description": "A large cargo ship designed to carry goods in standard-sized containers.",
+        "synonyms": [
+          "box ship"
+        ]
+      },
+      {
+        "word": "boat",
+        "description": "A vessel for travel on water, propelled by oars, sails, or an engine.",
+        "synonyms": [
+          "vessel",
+          "craft",
+          "watercraft"
+        ]
+      },
+      {
+        "word": "lifeboat",
+        "description": "A small boat kept on a ship for use in an emergency, or one used to save people at sea.",
+        "synonyms": [
+          "rescue boat"
+        ]
+      },
+      {
+        "word": "ferry",
+        "description": "A boat for conveying passengers and goods over a relatively short distance as a regular service.",
+        "synonyms": [
+          "ferryboat"
+        ]
+      },
+      {
+        "word": "hovercraft",
+        "description": "A vehicle that travels over land or water on a cushion of air.",
+        "synonyms": [
+          "air-cushion vehicle"
+        ]
+      },
+      {
+        "word": "hydrofoil",
+        "description": "A boat with wing-like foils that lift it out of the water at high speed.",
+        "synonyms": []
+      },
+      {
+        "word": "liner",
+        "description": "A large passenger ship, especially one that makes regular long-distance voyages.",
+        "synonyms": [
+          "ocean liner",
+          "cruise ship"
+        ]
+      },
+      {
+        "word": "canal boat",
+        "description": "A long, narrow boat specifically designed for use on canals.",
+        "synonyms": [
+          "narrowboat",
+          "barge"
+        ]
+      },
+      {
+        "word": "narrowboat",
+        "description": "A specific type of canal boat, typically with a maximum width of 7 feet.",
+        "synonyms": [
+          "canal boat"
+        ]
+      },
+      {
+        "word": "dinghy sailing",
+        "description": "The activity of sailing in a small, open sailboat.",
+        "synonyms": []
+      },
+      {
+        "word": "sailboat",
+        "description": "A boat propelled primarily by wind using sails.",
+        "synonyms": [
+          "yacht",
+          "sailing boat"
+        ]
+      },
+      {
+        "word": "paddle steamer",
+        "description": "A steam-powered ship propelled by one or more large paddle wheels.",
+        "synonyms": [
+          "steamboat"
+        ]
+      },
+      {
+        "word": "cabin cruiser",
+        "description": "A motorboat with a cabin for accommodation.",
+        "synonyms": [
+          "motor yacht"
+        ]
+      },
+      {
+        "word": "rowing boat",
+        "description": "A small boat that is moved through the water by using oars.",
+        "synonyms": [
+          "rowboat"
+        ]
+      },
+      {
+        "word": "rowboat",
+        "description": "A small boat propelled by rowing.",
+        "synonyms": [
+          "rowing boat",
+          "dinghy"
+        ]
+      },
+      {
+        "word": "kayak",
+        "description": "A small canoe-like boat where the paddler sits and uses a double-bladed paddle.",
+        "synonyms": []
+      },
+      {
+        "word": "canoe",
+        "description": "A narrow, light boat moved by one or more paddlers using single-bladed paddles.",
+        "synonyms": []
+      },
+      {
+        "word": "punt",
+        "description": "A long, narrow boat with a flat bottom, propelled by pushing a long pole against the river bed.",
+        "synonyms": []
+      },
+      {
+        "word": "gondola",
+        "description": "A traditional, flat-bottomed Venetian rowing boat, used on the canals of Venice.",
+        "synonyms": []
+      },
+      {
+        "word": "aircraft",
+        "description": "Any machine capable of flight, such as a plane or helicopter.",
+        "synonyms": [
+          "aeroplane",
+          "plane"
+        ]
+      },
+      {
+        "word": "helicopter",
+        "description": "An aircraft that gets lift from a set of horizontally revolving blades.",
+        "synonyms": [
+          "chopper"
+        ]
+      },
+      {
+        "word": "seaplane",
+        "description": "An aircraft with floats or a hull, allowing it to land on or take off from water.",
+        "synonyms": [
+          "floatplane",
+          "flying boat"
+        ]
+      },
+      {
+        "word": "airship",
+        "description": "A large, steerable, powered aircraft that is lighter than air, such as a blimp or zeppelin.",
+        "synonyms": [
+          "dirigible",
+          "blimp"
+        ]
+      },
+      {
+        "word": "hot-air balloon",
+        "description": "A large bag filled with heated air, with a basket for passengers, that rises and travels in the air.",
+        "synonyms": [
+          "balloon"
+        ]
+      },
+      {
+        "word": "airport",
+        "description": "A place where aircraft regularly take off and land, with facilities for passengers.",
+        "synonyms": [
+          "airfield",
+          "aerodrome"
+        ]
+      },
+      {
+        "word": "crew",
+        "description": "The group of people who work on and operate a ship, aircraft, or other vehicle.",
+        "synonyms": [
+          "staff",
+          "personnel"
+        ]
+      },
+      {
+        "word": "passenger",
+        "description": "A traveler on a public or private conveyance other than the pilot, driver, or crew.",
+        "synonyms": [
+          "traveler",
+          "rider"
+        ]
+      },
+      {
+        "word": "platform",
+        "description": "A raised level surface at a train station from which passengers can board a train.",
+        "synonyms": [
+          "track"
+        ]
+      },
+      {
+        "word": "hire a car",
+        "description": "To pay money to borrow a car for a short period of time.",
+        "synonyms": [
+          "rent a car"
+        ]
+      },
+      {
+        "word": "automobile",
+        "description": "A road vehicle, typically with four wheels, powered by an engine or electric motor.",
+        "synonyms": [
+          "car",
+          "motor vehicle"
+        ]
+      }
+    ],
+    "vehicles": [
+      {
+        "word": "double-decker bus",
+        "description": "A bus with two floors or levels.",
+        "synonyms": []
+      },
+      {
+        "word": "single-decker",
+        "description": "A bus with only one floor or level.",
+        "synonyms": [
+          "single-decker bus"
+        ]
+      },
+      {
+        "word": "minibus",
+        "description": "A small bus used for transporting a few people.",
+        "synonyms": []
+      },
+      {
+        "word": "school bus",
+        "description": "A bus used to transport children to and from school, often yellow in color.",
+        "synonyms": []
+      },
+      {
+        "word": "coach",
+        "description": "A comfortable bus used for longer journeys or tours.",
+        "synonyms": [
+          "tour bus"
+        ]
+      },
+      {
+        "word": "truck",
+        "description": "A large, heavy motor vehicle used for transporting goods, materials, or troops.",
+        "synonyms": [
+          "lorry"
+        ]
+      },
+      {
+        "word": "tanker",
+        "description": "A vehicle designed to carry liquids or gases in bulk.",
+        "synonyms": [
+          "tanker truck"
+        ]
+      },
+      {
+        "word": "van",
+        "description": "A medium-sized vehicle used for transporting goods or a group of people.",
+        "synonyms": []
+      },
+      {
+        "word": "lorry",
+        "description": "The British English term for a large, heavy motor vehicle for transporting goods.",
+        "synonyms": [
+          "truck"
+        ]
+      },
+      {
+        "word": "transporter",
+        "description": "A large vehicle designed specifically to carry other vehicles.",
+        "synonyms": [
+          "car carrier"
+        ]
+      },
+      {
+        "word": "forklift truck",
+        "description": "A small industrial vehicle with a power-operated pronged platform for lifting and moving heavy loads.",
+        "synonyms": [
+          "forklift"
+        ]
+      },
+      {
+        "word": "tow truck",
+        "description": "A vehicle used to pull other vehicles that have broken down.",
+        "synonyms": [
+          "breakdown truck",
+          "wrecker"
+        ]
+      },
+      {
+        "word": "breakdown truck",
+        "description": "The British English term for a vehicle that tows other vehicles.",
+        "synonyms": [
+          "tow truck"
+        ]
+      },
+      {
+        "word": "pickup",
+        "description": "A small truck with an enclosed cab and an open cargo area in the back.",
+        "synonyms": [
+          "pickup truck"
+        ]
+      },
+      {
+        "word": "jeep",
+        "description": "A sturdy car with four-wheel drive, suitable for rough terrain.",
+        "synonyms": []
+      },
+      {
+        "word": "caravan",
+        "description": "A vehicle equipped for living in, towed by a car and used for vacations.",
+        "synonyms": [
+          "trailer",
+          "mobile home"
+        ]
+      },
+      {
+        "word": "camper",
+        "description": "A motor vehicle, often a van, that is equipped for living in while traveling.",
+        "synonyms": [
+          "campervan",
+          "motorhome"
+        ]
+      },
+      {
+        "word": "tractor",
+        "description": "A powerful motor vehicle with large rear wheels, used on farms for pulling machinery.",
+        "synonyms": []
+      },
+      {
+        "word": "taxi",
+        "description": "A car, with a driver, that you pay to take you to a destination.",
+        "synonyms": [
+          "cab"
+        ]
+      },
+      {
+        "word": "cab",
+        "description": "A common synonym for a taxi.",
+        "synonyms": [
+          "taxi"
+        ]
+      },
+      {
+        "word": "tram",
+        "description": "A public transport vehicle, usually powered by electricity, that runs on rails in the street.",
+        "synonyms": [
+          "streetcar",
+          "trolley"
+        ]
+      },
+      {
+        "word": "underground",
+        "description": "The British term for a system of electric trains running in tunnels below a city.",
+        "synonyms": [
+          "subway",
+          "tube"
+        ]
+      },
+      {
+        "word": "subway",
+        "description": "The American term for an underground electric railway.",
+        "synonyms": [
+          "underground",
+          "metro"
+        ]
+      },
+      {
+        "word": "steam train",
+        "description": "A train that is powered by a steam engine.",
+        "synonyms": []
+      },
+      {
+        "word": "freight train",
+        "description": "A train that carries goods in bulk rather than passengers.",
+        "synonyms": [
+          "goods train"
+        ]
+      },
+      {
+        "word": "goods train",
+        "description": "The British English term for a train that carries freight.",
+        "synonyms": [
+          "freight train"
+        ]
+      }
+    ],
+    "weather": [
+      {
+        "word": "humid",
+        "description": "Having a high level of water vapor in the atmosphere.",
+        "synonyms": [
+          "muggy",
+          "sticky",
+          "damp"
+        ]
+      },
+      {
+        "word": "hot",
+        "description": "Having a high degree of heat or a high temperature.",
+        "synonyms": [
+          "boiling",
+          "scorching",
+          "sweltering"
+        ]
+      },
+      {
+        "word": "sticky",
+        "description": "Describing weather that is hot and unpleasantly humid.",
+        "synonyms": [
+          "muggy",
+          "close",
+          "sultry"
+        ]
+      },
+      {
+        "word": "breeze",
+        "description": "A gentle, light wind.",
+        "synonyms": [
+          "zephyr",
+          "light air"
+        ]
+      },
+      {
+        "word": "chilly",
+        "description": "Unpleasantly cold.",
+        "synonyms": [
+          "cool",
+          "nippy",
+          "brisk"
+        ]
+      },
+      {
+        "word": "cold",
+        "description": "Of or at a low or relatively low temperature.",
+        "synonyms": [
+          "frosty",
+          "icy",
+          "wintry"
+        ]
+      },
+      {
+        "word": "cool",
+        "description": "Of or at a fairly low temperature; pleasantly cold.",
+        "synonyms": [
+          "chilly",
+          "fresh"
+        ]
+      },
+      {
+        "word": "dry",
+        "description": "Lacking rain or moisture.",
+        "synonyms": [
+          "arid",
+          "parched",
+          "waterless"
+        ]
+      },
+      {
+        "word": "dusty",
+        "description": "Filled or covered with fine particles of dry earth or other matter.",
+        "synonyms": [
+          "grimy",
+          "sooty"
+        ]
+      },
+      {
+        "word": "freezing",
+        "description": "Extremely cold; below the temperature at which water turns to ice (0°C or 32°F).",
+        "synonyms": [
+          "bitterly cold",
+          "glacial",
+          "arctic"
+        ]
+      },
+      {
+        "word": "warm",
+        "description": "Of or at a fairly or comfortably high temperature.",
+        "synonyms": [
+          "balmy",
+          "mild",
+          "pleasant"
+        ]
+      },
+      {
+        "word": "wet",
+        "description": "Marked by or having a high level of rainfall.",
+        "synonyms": [
+          "rainy",
+          "damp",
+          "showery"
+        ]
+      },
+      {
+        "word": "weather forecast",
+        "description": "A prediction of what the weather will be like in the near future.",
+        "synonyms": [
+          "outlook",
+          "prediction",
+          "prognosis"
+        ]
+      },
+      {
+        "word": "antenna",
+        "description": "A device for receiving broadcast signals, often used for weather stations.",
+        "synonyms": [
+          "aerial",
+          "receiver"
+        ]
+      },
+      {
+        "word": "moisture",
+        "description": "Water or other liquid diffused in a small quantity as vapor or condensation.",
+        "synonyms": [
+          "dampness",
+          "humidity",
+          "wetness"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "word": "local library",
+        "description": "A public building with collections of books and media for people to read or borrow.",
+        "synonyms": [
+          "public library"
+        ]
+      },
+      {
+        "word": "swimming pool",
+        "description": "An artificial structure filled with water for the purpose of swimming or other water recreation.",
+        "synonyms": [
+          "pool",
+          "lido"
+        ]
+      },
+      {
+        "word": "cafeteria",
+        "description": "A restaurant where customers serve themselves from a counter and pay before eating.",
+        "synonyms": [
+          "canteen",
+          "self-service restaurant"
+        ]
+      },
+      {
+        "word": "cottage",
+        "description": "A small, simple house, typically one in a rural or semi-rural location.",
+        "synonyms": [
+          "cabin",
+          "bungalow",
+          "lodge"
+        ]
+      },
+      {
+        "word": "parliament",
+        "description": "The building where the highest legislative body of a country meets.",
+        "synonyms": [
+          "legislature",
+          "congress",
+          "assembly"
+        ]
+      },
+      {
+        "word": "accommodation",
+        "description": "A room, group of rooms, or building in which someone may live or stay.",
+        "synonyms": [
+          "lodging",
+          "housing",
+          "quarters"
+        ]
+      },
+      {
+        "word": "restaurant",
+        "description": "A place where people pay to sit and eat meals that are cooked and served on the premises.",
+        "synonyms": [
+          "eatery",
+          "diner",
+          "bistro"
+        ]
+      },
+      {
+        "word": "canteen",
+        "description": "A restaurant provided by an organization such as a college or factory for its staff.",
+        "synonyms": [
+          "cafeteria",
+          "mess hall"
+        ]
+      },
+      {
+        "word": "cafe",
+        "description": "A small, informal establishment selling light meals, snacks, and drinks.",
+        "synonyms": [
+          "coffee shop",
+          "tea room"
+        ]
+      },
+      {
+        "word": "bookshop",
+        "description": "A store where books are sold.",
+        "synonyms": [
+          "bookstore"
+        ]
+      },
+      {
+        "word": "sports centre",
+        "description": "A building that has facilities for various sports, such as a swimming pool or courts.",
+        "synonyms": [
+          "gymnasium",
+          "leisure centre"
+        ]
+      },
+      {
+        "word": "city council",
+        "description": "The governing body of a municipality or city.",
+        "synonyms": [
+          "town hall",
+          "municipal government"
+        ]
+      },
+      {
+        "word": "dance studio",
+        "description": "A room or building specifically designed for dancers to practice or be taught.",
+        "synonyms": [
+          "dance hall"
+        ]
+      },
+      {
+        "word": "park",
+        "description": "A large public garden or area of land used for recreation.",
+        "synonyms": [
+          "recreation ground",
+          "public garden",
+          "commons"
+        ]
+      },
+      {
+        "word": "conversation club",
+        "description": "A group that meets to practice speaking a language or for general discussion.",
+        "synonyms": [
+          "speaking club",
+          "language exchange"
+        ]
+      },
+      {
+        "word": "kindergarten",
+        "description": "A school or class that prepares children for first grade.",
+        "synonyms": [
+          "nursery school",
+          "preschool"
+        ]
+      }
+    ],
+    "equipment_and_tools": [
+      {
+        "word": "helmet",
+        "description": "A hard or padded protective hat, worn to protect the head from injury.",
+        "synonyms": [
+          "hard hat",
+          "headgear"
+        ]
+      },
+      {
+        "word": "light",
+        "description": "A device for producing illumination.",
+        "synonyms": [
+          "lamp",
+          "bulb",
+          "lantern"
+        ]
+      },
+      {
+        "word": "musical instrument",
+        "description": "An object constructed or adapted to make musical sounds.",
+        "synonyms": []
+      },
+      {
+        "word": "cassette",
+        "description": "A sealed plastic unit containing a length of audiotape, videotape, film, etc.",
+        "synonyms": [
+          "tape"
+        ]
+      },
+      {
+        "word": "silicon chip",
+        "description": "A tiny piece of silicon carrying a complex electronic circuit; a microchip.",
+        "synonyms": [
+          "microchip",
+          "integrated circuit"
+        ]
+      },
+      {
+        "word": "digital monitor",
+        "description": "An electronic visual display for computers or other devices.",
+        "synonyms": [
+          "screen",
+          "display",
+          "VDU"
+        ]
+      },
+      {
+        "word": "gadget",
+        "description": "A small mechanical or electronic device or tool, especially an ingenious or novel one.",
+        "synonyms": [
+          "device",
+          "gizmo",
+          "widget"
+        ]
+      },
+      {
+        "word": "device",
+        "description": "A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.",
+        "synonyms": [
+          "gadget",
+          "appliance",
+          "instrument"
+        ]
+      },
+      {
+        "word": "screen",
+        "description": "A flat panel on an electronic device on which images and data are displayed.",
+        "synonyms": [
+          "monitor",
+          "display"
+        ]
+      },
+      {
+        "word": "breaks",
+        "description": "A device for slowing or stopping a moving vehicle, typically by applying pressure to the wheels. (Note: often spelled 'brakes' in this context).",
+        "synonyms": [
+          "brakes"
+        ]
+      },
+      {
+        "word": "wheels",
+        "description": "Circular objects that revolve on an axle and are fixed below a vehicle to enable it to move.",
+        "synonyms": [
+          "tires",
+          "tyres"
+        ]
+      },
+      {
+        "word": "mechanical pencil",
+        "description": "A pencil with a replaceable and mechanically extendable solid pigment core called a 'lead'.",
+        "synonyms": [
+          "propelling pencil"
+        ]
+      },
+      {
+        "word": "disk",
+        "description": "A flat, thin circular object used for storing electronic data.",
+        "synonyms": [
+          "disc",
+          "floppy disk",
+          "hard drive"
+        ]
+      },
+      {
+        "word": "backpack",
+        "description": "A bag with shoulder straps which allow it to be carried on one's back.",
+        "synonyms": [
+          "rucksack",
+          "knapsack"
+        ]
+      }
+    ],
+    "the_arts_and_media": [
+      {
+        "word": "opera",
+        "description": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
+        "synonyms": [
+          "musical drama"
+        ]
+      },
+      {
+        "word": "orchestra",
+        "description": "A large group of musicians who play many different instruments together.",
+        "synonyms": [
+          "symphony",
+          "ensemble"
+        ]
+      },
+      {
+        "word": "concert",
+        "description": "A live music performance in front of an audience.",
+        "synonyms": [
+          "show",
+          "gig",
+          "performance"
+        ]
+      },
+      {
+        "word": "symphony",
+        "description": "An elaborate musical composition for a full orchestra.",
+        "synonyms": [
+          "philharmonic"
+        ]
+      },
+      {
+        "word": "the press",
+        "description": "The people (such as reporters and photographers) who work for newspapers, magazines, etc.",
+        "synonyms": [
+          "journalism",
+          "news media"
+        ]
+      },
+      {
+        "word": "conductor",
+        "description": "A person who directs the performance of an orchestra or choir.",
+        "synonyms": [
+          "maestro"
+        ]
+      },
+      {
+        "word": "vocalist",
+        "description": "A singer, especially one who sings with a pop band.",
+        "synonyms": [
+          "singer",
+          "performer"
+        ]
+      },
+      {
+        "word": "audience",
+        "description": "The assembled spectators or listeners at a public event, such as a play or concert.",
+        "synonyms": [
+          "spectators",
+          "listeners",
+          "crowd"
+        ]
+      },
+      {
+        "word": "festival",
+        "description": "An organized series of concerts, plays, or films, typically held annually.",
+        "synonyms": [
+          "gala",
+          "celebration",
+          "fete"
+        ]
+      },
+      {
+        "word": "carnival",
+        "description": "A public festival involving processions, music, dancing, and the use of masquerade.",
+        "synonyms": [
+          "fair",
+          "fiesta"
+        ]
+      },
+      {
+        "word": "exhibition",
+        "description": "A public display of works of art or other items of interest, held in a gallery or museum.",
+        "synonyms": [
+          "display",
+          "show",
+          "exposition"
+        ]
+      },
+      {
+        "word": "classical music",
+        "description": "Music written in the European tradition during a period lasting approximately from 1730 to 1820.",
+        "synonyms": []
+      },
+      {
+        "word": "theatre",
+        "description": "A building or outdoor area in which plays and other dramatic performances are given.",
+        "synonyms": [
+          "playhouse",
+          "auditorium"
+        ]
+      },
+      {
+        "word": "cinema",
+        "description": "A place where films are shown to the public.",
+        "synonyms": [
+          "movie theater",
+          "picture house"
+        ]
+      },
+      {
+        "word": "art gallery",
+        "description": "A room or building for the display or sale of works of art.",
+        "synonyms": [
+          "exhibition hall"
+        ]
+      },
+      {
+        "word": "museum",
+        "description": "A building housing objects of historical, scientific, artistic, or cultural interest.",
+        "synonyms": [
+          "gallery",
+          "exhibition"
+        ]
+      },
+      {
+        "word": "ballet",
+        "description": "An artistic dance form performed to music using precise and highly formalized steps.",
+        "synonyms": [
+          "classical dance"
+        ]
+      },
+      {
+        "word": "television",
+        "description": "A system for transmitting visual images and sound that are reproduced on screens.",
+        "synonyms": [
+          "TV",
+          "telly"
+        ]
+      },
+      {
+        "word": "radio",
+        "description": "The transmission of sound programs to the public by radio waves.",
+        "synonyms": [
+          "wireless"
+        ]
+      },
+      {
+        "word": "graphics",
+        "description": "Visual images or designs on some surface, such as a screen, to inform or entertain.",
+        "synonyms": [
+          "visuals",
+          "artwork",
+          "illustrations"
+        ]
+      },
+      {
+        "word": "newspaper",
+        "description": "A printed publication containing news, articles, advertisements, and correspondence.",
+        "synonyms": [
+          "paper",
+          "journal",
+          "gazette"
+        ]
+      }
+    ],
+    "materials": [
+      {
+        "word": "fur",
+        "description": "The thick, soft hair that covers the bodies of some animals.",
+        "synonyms": [
+          "pelt",
+          "coat"
+        ]
+      },
+      {
+        "word": "metal",
+        "description": "A solid, typically hard, shiny, malleable material that is a good electrical and thermal conductor.",
+        "synonyms": [
+          "alloy"
+        ]
+      },
+      {
+        "word": "steel",
+        "description": "A hard, strong alloy of iron with carbon, widely used in construction and for making tools.",
+        "synonyms": []
+      },
+      {
+        "word": "aluminum",
+        "description": "A lightweight, silver-white metallic element.",
+        "synonyms": []
+      },
+      {
+        "word": "copper",
+        "description": "A red-brown metal, often used for electrical wiring and pipes.",
+        "synonyms": []
+      },
+      {
+        "word": "rubber",
+        "description": "A tough, elastic substance made from the latex of a tropical plant or synthetically.",
+        "synonyms": [
+          "elastic"
+        ]
+      },
+      {
+        "word": "plastic",
+        "description": "A synthetic material made from a wide range of organic polymers that can be molded into shape.",
+        "synonyms": [
+          "polymer"
+        ]
+      },
+      {
+        "word": "ceramics",
+        "description": "Hard, brittle, heat-resistant materials made by shaping and firing a nonmetallic mineral, such as clay.",
+        "synonyms": [
+          "pottery",
+          "earthenware"
+        ]
+      },
+      {
+        "word": "glass",
+        "description": "A hard, brittle, transparent substance made by fusing sand with soda and lime.",
+        "synonyms": [
+          "pane"
+        ]
+      },
+      {
+        "word": "cement",
+        "description": "A powder that sets to a hard material when mixed with water, used as a binder in concrete.",
+        "synonyms": [
+          "binder",
+          "adhesive"
+        ]
+      },
+      {
+        "word": "stone",
+        "description": "Hard, solid, non-metallic mineral matter of which rock is made.",
+        "synonyms": [
+          "rock",
+          "pebble"
+        ]
+      },
+      {
+        "word": "textile",
+        "description": "A type of cloth or woven fabric.",
+        "synonyms": [
+          "fabric",
+          "cloth"
+        ]
+      },
+      {
+        "word": "cotton",
+        "description": "A soft white fibrous substance used as textile fiber.",
+        "synonyms": []
+      },
+      {
+        "word": "fabric",
+        "description": "Cloth or other material produced by weaving or knitting fibers.",
+        "synonyms": [
+          "textile",
+          "material"
+        ]
+      },
+      {
+        "word": "wool",
+        "description": "The fine, soft, curly hair forming the fleece of a sheep or similar animal.",
+        "synonyms": [
+          "fleece",
+          "yarn"
+        ]
+      },
+      {
+        "word": "leather",
+        "description": "A material made from the tanned skin of an animal.",
+        "synonyms": [
+          "hide"
+        ]
+      },
+      {
+        "word": "bone",
+        "description": "The hard, whitish tissue making up the skeleton in humans and other vertebrates.",
+        "synonyms": []
+      },
+      {
+        "word": "paper",
+        "description": "Material in thin sheets made from the pulp of wood, used for writing or printing.",
+        "synonyms": [
+          "sheet",
+          "document"
+        ]
+      },
+      {
+        "word": "lumber",
+        "description": "Timber that has been sawn into rough planks or boards.",
+        "synonyms": [
+          "timber",
+          "planks"
+        ]
+      },
+      {
+        "word": "wood",
+        "description": "The hard, fibrous material forming the main substance of a tree's trunk or branches.",
+        "synonyms": [
+          "timber"
+        ]
+      },
+      {
+        "word": "glue",
+        "description": "An adhesive substance used for sticking objects or materials together.",
+        "synonyms": [
+          "adhesive",
+          "paste"
+        ]
+      },
+      {
+        "word": "composite",
+        "description": "A material made from two or more different materials which remain separate in the resulting structure.",
+        "synonyms": [
+          "compound",
+          "hybrid"
+        ]
+      },
+      {
+        "word": "fiberglass",
+        "description": "A reinforced plastic material composed of glass fibers embedded in a resin matrix.",
+        "synonyms": []
+      },
+      {
+        "word": "concrete",
+        "description": "A building material made from a mixture of gravel, sand, cement, and water.",
+        "synonyms": []
+      },
+      {
+        "word": "wax",
+        "description": "A sticky, yellowish substance secreted by bees or created synthetically.",
+        "synonyms": []
+      },
+      {
+        "word": "silver",
+        "description": "A precious, shiny, greyish-white metallic element.",
+        "synonyms": []
+      },
+      {
+        "word": "gold",
+        "description": "A yellow, precious metal, used in jewelry and for coinage.",
+        "synonyms": []
+      },
+      {
+        "word": "feather",
+        "description": "Any of the flat, lightweight structures growing from a bird's skin.",
+        "synonyms": [
+          "plume",
+          "quill"
+        ]
+      }
+    ],
+    "works_and_jobs": [
+      {
+        "word": "occupation",
+        "description": "A person's job or principal activity.",
+        "synonyms": [
+          "job",
+          "profession",
+          "trade",
+          "employment"
+        ]
+      },
+      {
+        "word": "profession",
+        "description": "A paid occupation, especially one that involves prolonged training and a formal qualification.",
+        "synonyms": [
+          "career",
+          "calling",
+          "vocation"
+        ]
+      },
+      {
+        "word": "designer",
+        "description": "A person who plans the form or look of something before it is made.",
+        "synonyms": [
+          "creator",
+          "stylist",
+          "architect"
+        ]
+      },
+      {
+        "word": "decorator",
+        "description": "A person who paints the inside of houses or applies wallpaper.",
+        "synonyms": [
+          "painter",
+          "interior designer"
+        ]
+      },
+      {
+        "word": "architect",
+        "description": "A person who designs buildings and supervises their construction.",
+        "synonyms": [
+          "building designer"
+        ]
+      },
+      {
+        "word": "engineer",
+        "description": "A person who designs, builds, or maintains engines, machines, or public works.",
+        "synonyms": []
+      },
+      {
+        "word": "manager",
+        "description": "A person responsible for controlling or administering an organization or group of staff.",
+        "synonyms": [
+          "supervisor",
+          "director",
+          "head"
+        ]
+      },
+      {
+        "word": "waitress",
+        "description": "A woman who serves food and drinks at tables in a restaurant or cafe.",
+        "synonyms": [
+          "server"
+        ]
+      },
+      {
+        "word": "waiter",
+        "description": "A man who serves food and drinks at tables in a restaurant or cafe.",
+        "synonyms": [
+          "server"
+        ]
+      },
+      {
+        "word": "teacher",
+        "description": "A person who teaches, especially in a school.",
+        "synonyms": [
+          "instructor",
+          "educator",
+          "tutor"
+        ]
+      },
+      {
+        "word": "vacancy",
+        "description": "An unoccupied position or job.",
+        "synonyms": [
+          "opening",
+          "post",
+          "position"
+        ]
+      },
+      {
+        "word": "professor",
+        "description": "A university academic of the highest rank.",
+        "synonyms": []
+      },
+      {
+        "word": "specialist",
+        "description": "A person who concentrates primarily on a particular subject or activity.",
+        "synonyms": [
+          "expert",
+          "authority"
+        ]
+      },
+      {
+        "word": "psychologist",
+        "description": "An expert in the study of the human mind and behavior.",
+        "synonyms": []
+      },
+      {
+        "word": "volunteer",
+        "description": "A person who freely offers to take part in an enterprise or undertake a task without pay.",
+        "synonyms": [
+          "unpaid worker"
+        ]
+      },
+      {
+        "word": "freelance",
+        "description": "Working for different companies at different times rather than being permanently employed by one company.",
+        "synonyms": [
+          "self-employed",
+          "independent"
+        ]
+      },
+      {
+        "word": "secretary",
+        "description": "A person employed to assist with correspondence, keep records, and make appointments.",
+        "synonyms": [
+          "administrator",
+          "assistant"
+        ]
+      },
+      {
+        "word": "craftsman",
+        "description": "A person who is highly skilled in a particular craft.",
+        "synonyms": [
+          "artisan",
+          "maker",
+          "tradesperson"
+        ]
+      },
+      {
+        "word": "work experience",
+        "description": "Practical experience of a particular job, gained while working in that job.",
+        "synonyms": [
+          "on-the-job training",
+          "internship"
+        ]
+      },
+      {
+        "word": "curriculum vitae",
+        "description": "A brief account of a person's education, qualifications, and previous jobs.",
+        "synonyms": [
+          "resume",
+          "CV"
+        ]
+      },
+      {
+        "word": "mail address",
+        "description": "The address to which a person's mail is sent.",
+        "synonyms": [
+          "postal address"
+        ]
+      },
+      {
+        "word": "receptionist",
+        "description": "A person who greets visitors and deals with inquiries in an office or hotel.",
+        "synonyms": [
+          "front desk clerk"
+        ]
+      },
+      {
+        "word": "pilot",
+        "description": "A person who operates the flying controls of an aircraft.",
+        "synonyms": [
+          "aviator",
+          "flyer"
+        ]
+      },
+      {
+        "word": "guard",
+        "description": "A person who keeps watch or protects a person or place.",
+        "synonyms": [
+          "sentry",
+          "security guard",
+          "warden"
+        ]
+      },
+      {
+        "word": "flight attendant",
+        "description": "An airline employee who serves passengers during a flight.",
+        "synonyms": [
+          "cabin crew",
+          "air steward"
+        ]
+      },
+      {
+        "word": "lecturer",
+        "description": "A person who gives talks or academic courses at a university or college.",
+        "synonyms": [
+          "instructor",
+          "speaker"
+        ]
+      },
+      {
+        "word": "office assistant",
+        "description": "A person who performs various administrative and clerical tasks in an office.",
+        "synonyms": [
+          "clerk",
+          "administrator"
+        ]
+      },
+      {
+        "word": "clerk",
+        "description": "A person employed in an office or bank to keep records and accounts.",
+        "synonyms": [
+          "office worker",
+          "administrator"
+        ]
+      },
+      {
+        "word": "accountant",
+        "description": "A person whose job is to keep or inspect financial accounts.",
+        "synonyms": [
+          "bookkeeper",
+          "auditor"
+        ]
+      },
+      {
+        "word": "cashier",
+        "description": "A person handling payments and receipts in a store, bank, or other business.",
+        "synonyms": [
+          "teller",
+          "clerk"
+        ]
+      },
+      {
+        "word": "captain",
+        "description": "The person in command of a ship or aircraft.",
+        "synonyms": [
+          "commander",
+          "skipper",
+          "master"
+        ]
+      }
+    ],
+    "color": [
+      {
+        "word": "blue",
+        "description": "The color of the sky on a clear day or the deep sea.",
+        "synonyms": [
+          "azure",
+          "cyan",
+          "navy"
+        ]
+      },
+      {
+        "word": "white",
+        "description": "The color of fresh snow, milk, or salt; the lightest color.",
+        "synonyms": [
+          "ivory",
+          "pearl",
+          "snowy"
+        ]
+      },
+      {
+        "word": "orange",
+        "description": "A secondary color between yellow and red, like the fruit of the same name.",
+        "synonyms": [
+          "tangerine",
+          "apricot"
+        ]
+      },
+      {
+        "word": "green",
+        "description": "The color of growing grass or leaves on a tree.",
+        "synonyms": [
+          "emerald",
+          "lime",
+          "olive"
+        ]
+      },
+      {
+        "word": "grey",
+        "description": "A color between black and white, like that of ash or lead. (Also spelled 'gray').",
+        "synonyms": [
+          "charcoal",
+          "slate",
+          "silver"
+        ]
+      },
+      {
+        "word": "black",
+        "description": "The darkest color, the result of the absence or complete absorption of light.",
+        "synonyms": [
+          "ebony",
+          "jet",
+          "onyx"
+        ]
+      },
+      {
+        "word": "red",
+        "description": "The color of blood or a ripe strawberry.",
+        "synonyms": [
+          "crimson",
+          "scarlet",
+          "ruby"
+        ]
+      },
+      {
+        "word": "yellow",
+        "description": "The color of lemons, a sunflower, or gold.",
+        "synonyms": [
+          "gold",
+          "lemon",
+          "amber"
+        ]
+      },
+      {
+        "word": "purple",
+        "description": "A color intermediate between blue and red, often associated with royalty.",
+        "synonyms": [
+          "violet",
+          "lilac",
+          "mauve"
+        ]
+      },
+      {
+        "word": "brown",
+        "description": "The color of soil, wood, or chocolate.",
+        "synonyms": [
+          "chocolate",
+          "tan",
+          "bronze"
+        ]
+      },
+      {
+        "word": "pink",
+        "description": "A pale red color, often associated with flowers like roses.",
+        "synonyms": [
+          "rose",
+          "fuchsia",
+          "salmon"
+        ]
+      }
+    ],
+    "expressions_and_time": [
+      {
+        "word": "three times",
+        "description": "An action or event that happens on three separate occasions.",
+        "synonyms": [
+          "thrice"
+        ]
+      },
+      {
+        "word": "three times per week",
+        "description": "An event or activity that occurs three times within a seven-day period.",
+        "synonyms": []
+      },
+      {
+        "word": "a gap year",
+        "description": "A period, typically a year, taken by a student as a break between school and university.",
+        "synonyms": [
+          "sabbatical",
+          "year off"
+        ]
+      },
+      {
+        "word": "full-time",
+        "description": "Working or studying for the standard number of hours in a week.",
+        "synonyms": []
+      },
+      {
+        "word": "part-time",
+        "description": "Working or studying for fewer than the standard number of hours in a week.",
+        "synonyms": []
+      },
+      {
+        "word": "midday",
+        "description": "The middle of the day; noon.",
+        "synonyms": [
+          "noon",
+          "twelve o'clock"
+        ]
+      },
+      {
+        "word": "midnight",
+        "description": "Twelve o'clock at night; the middle of the night.",
+        "synonyms": [
+          "dead of night",
+          "witching hour"
+        ]
+      },
+      {
+        "word": "millennium",
+        "description": "A period of one thousand years.",
+        "synonyms": []
+      },
+      {
+        "word": "century",
+        "description": "A period of one hundred years.",
+        "synonyms": []
+      },
+      {
+        "word": "decade",
+        "description": "A period of ten years.",
+        "synonyms": []
+      },
+      {
+        "word": "fortnight",
+        "description": "A period of two weeks.",
+        "synonyms": [
+          "two weeks",
+          "14 days"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "word": "passport photo",
+        "description": "A small photograph of a person's face, used for official identification.",
+        "synonyms": [
+          "ID photo"
+        ]
+      },
+      {
+        "word": "state",
+        "description": "A nation or territory considered as an organized political community under one government.",
+        "synonyms": [
+          "country",
+          "nation"
+        ]
+      },
+      {
+        "word": "government",
+        "description": "The group of people with the authority to govern a country or state.",
+        "synonyms": [
+          "administration",
+          "regime",
+          "authorities"
+        ]
+      },
+      {
+        "word": "individual",
+        "description": "A single human being as distinct from a group.",
+        "synonyms": [
+          "person",
+          "single entity"
+        ]
+      },
+      {
+        "word": "variety",
+        "description": "The quality of being different or diverse; the absence of uniformity.",
+        "synonyms": [
+          "diversity",
+          "assortment",
+          "range"
+        ]
+      },
+      {
+        "word": "private sector",
+        "description": "The part of the national economy that is not under direct state control.",
+        "synonyms": [
+          "private enterprise"
+        ]
+      },
+      {
+        "word": "practice",
+        "description": "The actual application or use of an idea, belief, or method.",
+        "synonyms": [
+          "application",
+          "exercise",
+          "custom"
+        ]
+      },
+      {
+        "word": "gender",
+        "description": "The state of being male or female, especially in a social or cultural context.",
+        "synonyms": [
+          "sex"
+        ]
+      },
+      {
+        "word": "creativity",
+        "description": "The use of imagination or original ideas to create something.",
+        "synonyms": [
+          "inventiveness",
+          "imagination",
+          "originality"
+        ]
+      },
+      {
+        "word": "original inhabitant",
+        "description": "The first people to live in a particular area.",
+        "synonyms": [
+          "native",
+          "aborigine"
+        ]
+      },
+      {
+        "word": "indigenous",
+        "description": "Originating or occurring naturally in a particular place; native.",
+        "synonyms": [
+          "native",
+          "aboriginal"
+        ]
+      },
+      {
+        "word": "demonstration",
+        "description": "A public meeting or march protesting against something.",
+        "synonyms": [
+          "protest",
+          "march",
+          "rally"
+        ]
+      },
+      {
+        "word": "strike",
+        "description": "A refusal to work organized by employees as a form of protest.",
+        "synonyms": [
+          "walkout",
+          "industrial action"
+        ]
+      },
+      {
+        "word": "entrance",
+        "description": "An opening, such as a door or gate, that allows access to a place.",
+        "synonyms": [
+          "entry",
+          "access",
+          "way in"
+        ]
+      },
+      {
+        "word": "circuit",
+        "description": "A roughly circular line, route, or movement that starts and finishes at the same place.",
+        "synonyms": [
+          "loop",
+          "lap",
+          "tour"
+        ]
+      },
+      {
+        "word": "guarantee",
+        "description": "A formal promise or assurance that certain conditions will be fulfilled.",
+        "synonyms": [
+          "warranty",
+          "promise",
+          "pledge"
+        ]
+      },
+      {
+        "word": "dialogue",
+        "description": "A conversation between two or more people.",
+        "synonyms": [
+          "conversation",
+          "discussion",
+          "talk"
+        ]
+      },
+      {
+        "word": "commerce",
+        "description": "The activity of buying and selling, especially on a large scale.",
+        "synonyms": [
+          "trade",
+          "business",
+          "exchange"
+        ]
+      },
+      {
+        "word": "carriage",
+        "description": "A vehicle with four wheels pulled by horses, used for transporting people.",
+        "synonyms": [
+          "coach",
+          "wagon"
+        ]
+      },
+      {
+        "word": "narrative",
+        "description": "A spoken or written account of connected events; a story.",
+        "synonyms": [
+          "story",
+          "account",
+          "tale"
+        ]
+      },
+      {
+        "word": "chocolate",
+        "description": "A food made from roasted and ground cacao seeds, typically sweet.",
+        "synonyms": []
+      },
+      {
+        "word": "satellite",
+        "description": "An artificial body placed in orbit around the earth or another planet.",
+        "synonyms": [
+          "spacecraft",
+          "orbiter"
+        ]
+      },
+      {
+        "word": "decision",
+        "description": "A conclusion or resolution reached after consideration.",
+        "synonyms": [
+          "choice",
+          "verdict",
+          "ruling"
+        ]
+      },
+      {
+        "word": "prototype",
+        "description": "A first or preliminary version of a device from which other forms are developed.",
+        "synonyms": [
+          "model",
+          "mock-up",
+          "pilot model"
+        ]
+      },
+      {
+        "word": "attitude",
+        "description": "A settled way of thinking or feeling about someone or something.",
+        "synonyms": [
+          "viewpoint",
+          "outlook",
+          "perspective"
+        ]
+      },
+      {
+        "word": "daily routine",
+        "description": "The usual series of things that you do at a particular time each day.",
+        "synonyms": [
+          "schedule",
+          "regimen"
+        ]
+      },
+      {
+        "word": "personal fulfillment",
+        "description": "A feeling of deep satisfaction from achieving one's potential or desires.",
+        "synonyms": [
+          "self-satisfaction",
+          "contentment"
+        ]
+      },
+      {
+        "word": "activity",
+        "description": "The condition in which things are happening or being done.",
+        "synonyms": [
+          "action",
+          "movement",
+          "pursuit"
+        ]
+      },
+      {
+        "word": "recipient",
+        "description": "A person or thing that receives or is awarded something.",
+        "synonyms": [
+          "receiver",
+          "beneficiary"
+        ]
+      },
+      {
+        "word": "ultrasound",
+        "description": "Sound waves with high frequencies, often used in medical imaging.",
+        "synonyms": [
+          "sonography"
+        ]
+      },
+      {
+        "word": "pedestrian safety",
+        "description": "Measures to prevent injuries to people walking, especially from vehicles.",
+        "synonyms": []
+      },
+      {
+        "word": "traffic jams",
+        "description": "A long line of vehicles that cannot move or can only move very slowly.",
+        "synonyms": [
+          "gridlock",
+          "congestion",
+          "bottleneck"
+        ]
+      },
+      {
+        "word": "procedures",
+        "description": "An established or official way of doing something.",
+        "synonyms": [
+          "process",
+          "method",
+          "system"
+        ]
+      },
+      {
+        "word": "creation",
+        "description": "The action or process of bringing something into existence.",
+        "synonyms": [
+          "invention",
+          "production",
+          "formation"
+        ]
+      },
+      {
+        "word": "prize",
+        "description": "A thing given as a reward to the winner of a competition.",
+        "synonyms": [
+          "award",
+          "reward",
+          "trophy"
+        ]
+      },
+      {
+        "word": "junior",
+        "description": "Relating to younger or less experienced people.",
+        "synonyms": [
+          "younger",
+          "subordinate"
+        ]
+      },
+      {
+        "word": "senior",
+        "description": "Relating to older or more experienced people.",
+        "synonyms": [
+          "older",
+          "superior",
+          "elder"
+        ]
+      },
+      {
+        "word": "opportunity",
+        "description": "A time or set of circumstances that makes it possible to do something.",
+        "synonyms": [
+          "chance",
+          "opening",
+          "occasion"
+        ]
+      },
+      {
+        "word": "driving license",
+        "description": "An official document permitting a person to operate a motor vehicle.",
+        "synonyms": [
+          "driver's license"
+        ]
+      },
+      {
+        "word": "process",
+        "description": "A series of actions or steps taken in order to achieve a particular end.",
+        "synonyms": [
+          "procedure",
+          "method"
+        ]
+      },
+      {
+        "word": "literary",
+        "description": "Concerning the writing, study, or content of literature.",
+        "synonyms": [
+          "scholarly",
+          "artistic"
+        ]
+      },
+      {
+        "word": "man-made",
+        "description": "Made or caused by human beings, as opposed to occurring naturally.",
+        "synonyms": [
+          "artificial",
+          "synthetic",
+          "manufactured"
+        ]
+      },
+      {
+        "word": "republicans",
+        "description": "Supporters of a republic system of government; a major political party in the USA.",
+        "synonyms": []
+      },
+      {
+        "word": "umbrella",
+        "description": "A device used as protection against rain or sun.",
+        "synonyms": [
+          "parasol",
+          "brolly"
+        ]
+      },
+      {
+        "word": "frequently updated",
+        "description": "Changed or revised often and at short intervals.",
+        "synonyms": [
+          "regularly revised"
+        ]
+      },
+      {
+        "word": "waiting list",
+        "description": "A list of people who have requested something that is not immediately available.",
+        "synonyms": [
+          "queue"
+        ]
+      },
+      {
+        "word": "sewer systems",
+        "description": "A network of pipes that convey wastewater for treatment.",
+        "synonyms": [
+          "drainage system",
+          "sewerage"
+        ]
+      },
+      {
+        "word": "liberal democracy",
+        "description": "A democracy where individual rights and freedoms are officially protected.",
+        "synonyms": []
+      },
+      {
+        "word": "democrats",
+        "description": "Advocates of democracy; a major political party in the USA.",
+        "synonyms": []
+      },
+      {
+        "word": "lunar calendar",
+        "description": "A calendar based on the monthly cycles of the Moon's phases.",
+        "synonyms": [
+          "moon calendar"
+        ]
+      },
+      {
+        "word": "libertarian",
+        "description": "An advocate for minimal government interference in personal lives.",
+        "synonyms": []
+      },
+      {
+        "word": "burger",
+        "description": "A patty of minced meat, fried or grilled and served in a bun.",
+        "synonyms": [
+          "hamburger"
+        ]
+      },
+      {
+        "word": "videos",
+        "description": "Recordings of moving visual images.",
+        "synonyms": [
+          "films",
+          "clips",
+          "recordings"
+        ]
+      },
+      {
+        "word": "nature conservation",
+        "description": "The protection of animals, plants, and natural resources.",
+        "synonyms": [
+          "environmental protection",
+          "preservation"
+        ]
+      },
+      {
+        "word": "life expectancy",
+        "description": "The average period that a person may expect to live.",
+        "synonyms": [
+          "lifespan"
+        ]
+      },
+      {
+        "word": "fund-raising event",
+        "description": "An event held to generate financial support for a cause.",
+        "synonyms": [
+          "fundraiser",
+          "benefit"
+        ]
+      },
+      {
+        "word": "magnet",
+        "description": "A piece of iron that can attract other iron-containing objects.",
+        "synonyms": []
+      },
+      {
+        "word": "dialect",
+        "description": "A form of a language that is specific to a region or social group.",
+        "synonyms": [
+          "accent",
+          "vernacular"
+        ]
+      },
+      {
+        "word": "ramification",
+        "description": "A complex or unwelcome consequence of an action or event.",
+        "synonyms": [
+          "consequence",
+          "result",
+          "implication"
+        ]
+      },
+      {
+        "word": "straight",
+        "description": "Extending uniformly in one direction only; without a curve.",
+        "synonyms": [
+          "direct",
+          "linear",
+          "unswerving"
+        ]
+      },
+      {
+        "word": "farewell",
+        "description": "An act of parting or of marking a departure.",
+        "synonyms": [
+          "goodbye",
+          "adieu",
+          "departure"
+        ]
+      },
+      {
+        "word": "welfare",
+        "description": "The health, happiness, and fortunes of a person or group.",
+        "synonyms": [
+          "well-being",
+          "security"
+        ]
+      },
+      {
+        "word": "encyclopedia",
+        "description": "A book or set of books with information on many subjects, arranged alphabetically.",
+        "synonyms": [
+          "reference book"
+        ]
+      },
+      {
+        "word": "evolution",
+        "description": "The process by which organisms develop and diversify from earlier forms.",
+        "synonyms": [
+          "development",
+          "progression"
+        ]
+      },
+      {
+        "word": "revolution",
+        "description": "A forcible overthrow of a government or social order for a new system.",
+        "synonyms": [
+          "rebellion",
+          "uprising",
+          "coup"
+        ]
+      },
+      {
+        "word": "illiteracy",
+        "description": "The inability to read or write.",
+        "synonyms": []
+      },
+      {
+        "word": "robot",
+        "description": "A machine capable of carrying out a complex series of actions automatically.",
+        "synonyms": [
+          "automaton",
+          "android"
+        ]
+      },
+      {
+        "word": "proficiency",
+        "description": "A high degree of skill; expertise.",
+        "synonyms": [
+          "skill",
+          "expertise",
+          "mastery"
+        ]
+      },
+      {
+        "word": "sufficient",
+        "description": "Enough to meet the needs of a situation; adequate.",
+        "synonyms": [
+          "enough",
+          "adequate",
+          "ample"
+        ]
+      }
+    ]
+  }
