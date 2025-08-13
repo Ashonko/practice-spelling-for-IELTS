@@ -4,20 +4,20 @@
     "description": "A free, interactive web app to help you master the most common vocabulary for the IELTS test.",
     "icons": [
       {
-        "src": "/icons/icon-192x192.png",
+        "src": "/practice-spelling-for-IELTS/icons/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any maskable"
       },
       {
-        "src": "/icons/icon-512x512.png",
+        "src": "/practice-spelling-for-IELTS/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable"
       }
     ],
-    "start_url": "/index.html",
-    "scope": "/",
+    "start_url": "/practice-spelling-for-IELTS/index.html",
+    "scope": "/practice-spelling-for-IELTS/",
     "display": "standalone",
     "background_color": "#eef1f5",
     "theme_color": "#3498db",
