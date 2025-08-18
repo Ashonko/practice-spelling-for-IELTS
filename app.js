@@ -26,6 +26,44 @@ document.addEventListener('DOMContentLoaded', () => {
     let isTracingMode = false;
     let traceIndex = 0;
 
+    // Pronunciation
+    const accents = [
+        { name: 'British', lang: 'en-GB', flag: '🇬🇧' },
+        { name: 'American', lang: 'en-US', flag: '🇺🇸' },
+        { name: 'Australian', lang: 'en-AU', flag: '🇦🇺' },
+        { name: 'Canadian', lang: 'en-CA', flag: '🇨🇦' },
+        { name: 'New Zealand', lang: 'en-NZ', flag: '🇳🇿' }
+    ];
+    
+    let voices = [];
+
+    // Load voices asynchronously
+    if ('speechSynthesis' in window) {
+        speechSynthesis.onvoiceschanged = () => {
+        voices = speechSynthesis.getVoices();
+        };
+        // Trigger initial load
+        speechSynthesis.getVoices();
+    }
+
+    function pronounceWord(word, lang) {
+        if (!('speechSynthesis' in window)) {
+            alert('Your browser does not support speech synthesis. Try Chrome, Firefox, or Edge.');
+            return;
+        }
+    
+        const utterance = new SpeechSynthesisUtterance(word);
+        // Find a voice matching the language code
+        const selectedVoice = voices.find(voice => voice.lang === lang);
+        if (selectedVoice) {
+            utterance.voice = selectedVoice;
+        } else {
+            console.warn(`No voice found for ${lang}. Using default voice.`);
+        }
+        utterance.rate = 0.8; // Slower for clarity in spelling practice
+        speechSynthesis.speak(utterance);
+    }
+
     // --- ICONS FOR CATEGORIES ---
     const categoryIcons = {
         'default': '📚',
@@ -186,6 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
         descriptionDisplay.textContent = currentWordObject.description;
         synonymsContainer.innerHTML = '';
         if (currentWordObject.synonyms && currentWordObject.synonyms.length > 0) {
+            synonymsContainer.innerHTML = '<span class="description-prompt">Synonyms:</span> ';
             currentWordObject.synonyms.forEach(synonym => {
                 const badge = document.createElement('span');
                 badge.className = 'synonym-badge';
@@ -193,6 +232,24 @@ document.addEventListener('DOMContentLoaded', () => {
                 synonymsContainer.appendChild(badge);
             });
         }
+          
+        // Pronounce the word
+        const accentContainer = document.getElementById('accent-buttons');
+        accentContainer.innerHTML = '<span class="description-prompt" style="padding-top: 8px;">Pronounce it: </span> ';
+        accents.forEach(accent => {
+            const btn = document.createElement('button');
+            btn.className = 'accent-btn';
+            btn.innerHTML = `<span class="flag">${accent.flag}</span>`;
+            btn.addEventListener('click', () => {
+              if (currentWordObject && currentWordObject.word) {
+                pronounceWord(currentWordObject.word, accent.lang);
+              } else {
+                console.error('No current word to pronounce.');
+              }
+            });
+            accentContainer.appendChild(btn);
+          });
+
         updateFlagButton();
         answerInput.value = '';
         answerInput.disabled = false;

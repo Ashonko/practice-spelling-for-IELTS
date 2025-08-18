@@ -15,7 +15,7 @@ A free, interactive, and open-source web application designed to help students m
 *   **Guided Correction**: If you make a mistake, the app provides an interactive "tracing" feature to help you learn the correct spelling character by character.
 *   **Personalized Review**: Flag difficult words during practice and review them later in a dedicated "Practice Flagged" session.
 *   **Synonym Hints**: Get hints from related synonyms to better understand the word's context.
-*   **Fully Responsive**: Works beautifully on desktop, tablet, and mobile devices.
+*   **Pronounce Words**: Listen to the words in British, American, Australian, Canadian, and New Zealand accents, which are common in the IELTS listening test.
 *   **Privacy-Focused**: All your flagged words are saved directly in your browser's local storage. No data is ever sent to a server.
 
 ## 🛠️ Built With
